@@ -17,6 +17,10 @@
 <script>
 $(document).ready(function() {
   var visuals = $("#visci_select").select2();
+  $("#visci_select").change(function(){ 
+     var link = $("#visci_select").val()
+     $("#visiframe").attr("src",link)
+  })
 });
 </script>
 </body>

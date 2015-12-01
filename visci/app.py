@@ -86,7 +86,7 @@ def generate_vis_index(vis_files,base_dir):
             relative_path = relative_path[1:]  
         visci_select = '\n%s<option value="%s">%s</option>' %(visci_select,relative_path,relative_path)
     substitutions = {"VISCI_SELECT":visci_select,
-                     "VISUALIZATION_ONE":vis_files[0]}
+                     "VISUALIZATION_ONE":relative_path}
     template = sub_template(template,substitutions)
     save_render(template,"%s/index.html" %base_dir)
 
