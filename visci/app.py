@@ -39,7 +39,7 @@ def generate(visci_folder,base_dir):
         os.mkdir(data_output)
 
     # If a run script exisits, run it
-    run_script = "%s/run.py" %visci_folder
+    run_script = "%s/runX.py" %visci_folder
     if os.path.exists(run_script):     
         module = imp.load_source("main", run_script)
         os.chdir(visci_folder)

@@ -7,6 +7,7 @@ visualization file structure for continuous integration.
 import visci.utils
 from jinja2 import Template
 import string
+import os
 
 def read_template(template_file):
     filey = open(template_file,"rb")
