@@ -23,8 +23,8 @@ def sub_template(template_str,subs):
     :param subs: dict, substitutions, with "key" as variable name, and value as the substitution.
     '''
     for sub,text in subs.iteritems():
-        template = template.replace("[[%s]]"%sub,text)
-    return template
+        template_str = template_str.replace("[[%s]]"%sub,text)
+    return template_str
 
 
 def save_render(template_str,output_file):
