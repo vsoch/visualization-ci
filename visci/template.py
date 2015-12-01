@@ -10,7 +10,7 @@ import string
 import os
 
 def read_template(template_file):
-    filey = open(template_file,"rb")
+    filey = open(template_file,"r")
     template = "\n".join(filey.readlines())
     template = filter(lambda x: x in string.printable, template)
     filey.close()
