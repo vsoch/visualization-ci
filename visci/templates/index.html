@@ -9,17 +9,14 @@
 </head>
 <meta charset="utf-8">
 <body>
-<div id="fade"></div>
 <div class="visci_header">
     <div class="visci_select"> 
         <select id="visci_select_two">
         [[VISCI_SELECT]]
         </select>
     </div>
-    <div class="visci_actions">
-        <div>
+    <div>
         <a href="[[VISUALIZATION_ONE]]">Remove Frame</a>
-        </div>
     </div>
 </div>
 <iframe id="visiframe" class="full-screen-preview_frame" src={{visualization_1}}" name="preview-frame" frameborder="0" noresize="noresize" data-view="fullScreenPreview" style="heght: 389px;"></iframe>
@@ -31,29 +28,6 @@ $(document).ready(function() {
   var iframe = document.getElementById('visiframe');
   iframe.src = theID
   iframe.contentWindow.location.reload();
-});
-
-function showModal() {
-document.getElementById('about_modal').style.display = 'block';
-document.getElementById('fade').style.display = 'block';
-}
-function hideModal() {
-document.getElementById('about_modal').style.display = 'none';
-document.getElementById('fade').style.display = 'none';
-}
+})
 </script>
-<div id='about_modal' class='modal' data-backdrop='static' style='margin-top:75px'>
-<div class='modal-dialog'>
-<div class='modal-content'>
-<div class='modal-header'>
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="hideModal()">X</button>
-<h4 class="modal-title">About</h4>
-</div>
-<div class='modal-body'>
-<h4>Visualization for Continuous Integration (VISCI)</h4>
-<p>A lot of research happens on Github, but visualization to go along with these pipelines is not a "solved problem." Data changes. We may want to visualize this data, but we don't have a server. We may also want to test different ways of visualizing the same data, but that's annoying to do locally and over many data inputs. Thus, this is what I am calling Visualization-CI - a standard of running visualizations to go along with continuous integration.</p> 
-<h4>How does it work?</h4>
-<p>Setting up `visci` integration into your repo should be as simple as dropping configuration files into one or more folders of your repo, and adding a line to your circle.yml (or other continuous integration script). The visualizations should be produced as artifacts each time a PR or commit is triggered. `visci` can produce the same visualization for many data inputs, or different visualizations for the same data input, for one or more folders anywhere in your repo.</p>
-<p>Visci is also agnostic to the formats of your inputs, and your visualizations. The only requirement is that your template is a web-based thing (.html, ipython notebook will be supported soon), and that a single input data file is specified in your template (to be read in as a file) using the {{data}} tag.</p>
-</div></div></div></div>
 </html>
