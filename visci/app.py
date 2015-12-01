@@ -65,7 +65,7 @@ def generate_vis(template_file,data_files,output_folder):
         filename = os.path.basename(data_file).split(".")[0]
         sub = sub_template(template,{"data":data_file})
         vis_file = "%s/%s.html" %(output_folder,filename)
-        save_template(sub,vis_file)
+        save_render(sub,vis_file)
         visualization_files.append(vis_file)
     return visualization_files
 
@@ -78,7 +78,7 @@ def generate_vis_index(vis_files,base_dir):
     substitutions = {"visci_select":visci_select,
                      "visualization_1":vis_files[0]}
     template = sub_template(template,substitutions)
-    save_template("%s/index.html" %base_dir)
+    save_render("%s/index.html" %base_dir)
 
 def generate_index(index_paths):
     template = get_template("main_index")
