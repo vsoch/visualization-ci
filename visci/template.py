@@ -6,10 +6,12 @@ visualization file structure for continuous integration.
 
 import visci.utils
 from jinja2 import Template
+import string
 
 def read_template(template_file):
     filey = open(template_file,"rb")
     template = "\n".join(filey.readlines())
+    template = filter(lambda x: x in string.printable, template)
     filey.close()
     return template.decode("utf-8")
 
