@@ -62,7 +62,7 @@ def generate_vis(template_file,data_files,output_folder):
     template = read_template(template_file)     
     for data_file in data_files:
         filename = os.path.basename(data_file).split(".")[0]
-        sub = sub_template(template,{"data":data_file}
+        sub = sub_template(template,{"data":data_file})
         vis_file = "%s/%s.html" %(output_folder,filename)
         save_template(sub,vis_file)
         visualization_files.append(vis_file)

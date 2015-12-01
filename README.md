@@ -1,4 +1,4 @@
-## Visualizaition with Continuous Integration (VISCI)
+## Visualization with Continuous Integration (VISCI)
 
 [![Circle CI](https://circleci.com/gh/vsoch/visualization-ci/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/visualization-ci/tree/master)
 
