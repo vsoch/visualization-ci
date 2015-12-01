@@ -44,7 +44,8 @@ def main():
                 except:
                     pass
             task_node["children"] = task_concepts
-            # Save to file
-            filey = open('%s/%s.json' %(output_folder,task_name),'w')
-            filey.write(json.dumps(task_node, sort_keys=True,indent=4, separators=(',', ': ')))
-            filey.close()
+            # Save to file if we have children
+            if len(task_concepts) > 0:
+                filey = open('%s/%s.json' %(output_folder,task_name),'w')
+                filey.write(json.dumps(task_node, sort_keys=True,indent=4, separators=(',', ': ')))
+                filey.close()
