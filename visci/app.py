@@ -62,11 +62,15 @@ def generate_vis(template_file,data_files,output_folder):
     visualization_files = []
     template = read_template(template_file)     
     for data_file in data_files:
-        filename = os.path.basename(data_file).split(".")[0]
-        sub = sub_template(template,{"DATA":filename})
-        vis_file = "%s/%s.html" %(output_folder,filename)
-        save_render(sub,vis_file)
-        visualization_files.append(vis_file)
+        try:
+            filename = os.path.basename(data_file).split(".")[0]
+            sub = sub_template(template,{"DATA":filename})
+            vis_file = "%s/%s.html" %(output_folder,filename)
+            save_render(sub,vis_file)
+            visualization_files.append(vis_file)
+        except:
+            print "Error with file %s. Skipping." %(data_file)
+
     return visualization_files
 
 def generate_vis_index(vis_files,base_dir):
