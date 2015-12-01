@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a3036a4175b"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Regularity and Change Detection",
+    "nid": "trm_5519c329eb334"
+}

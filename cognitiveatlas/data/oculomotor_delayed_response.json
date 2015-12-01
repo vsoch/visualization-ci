@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual working memory",
+                    "nid": "trm_4a3fd79d0b4d8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "delay period distractor task",
+            "nid": "cnt_4c9974a44a920"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual working memory",
+                    "nid": "trm_4a3fd79d0b4d8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sensory modality",
+            "nid": "cnt_4c9975fc3078c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "oculomotor delayed response",
+    "nid": "trm_4c3e0add96550"
+}

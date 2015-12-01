@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Interstimulus Interval (ISI)",
+            "nid": "cnt_4ffdbab8b5539"
+        }
+    ],
+    "color": "#63506d",
+    "name": "auditory temporal discrimination task",
+    "nid": "trm_4f240e7f989f8"
+}

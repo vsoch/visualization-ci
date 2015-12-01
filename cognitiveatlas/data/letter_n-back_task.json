@@ -1,0 +1,67 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back",
+            "nid": "cnt_4e08f52d8255d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "1-back",
+            "nid": "cnt_4e08f54b8a426"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back",
+            "nid": "cnt_4e08f563a47ed"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "3-back",
+            "nid": "cnt_4e08f5a26773d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "3-back minus 0-back",
+            "nid": "cnt_4e08f5aa73703"
+        }
+    ],
+    "color": "#63506d",
+    "name": "letter n-back task",
+    "nid": "tsk_4a57abb949b1c"
+}

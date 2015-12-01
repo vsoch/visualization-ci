@@ -1,0 +1,61 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial memory",
+                    "nid": "trm_4a3fd79d0b1d5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual memory",
+                    "nid": "trm_4a3fd79d0b49e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "context memory",
+                    "nid": "trm_4a3fd79d09e87"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "source memory",
+                    "nid": "trm_4a3fd79d0b18f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "d&#39; (difference between correct identifications and false alarms)",
+            "nid": "cnt_4dfa93ee97bc8"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial memory",
+                    "nid": "trm_4a3fd79d0b1d5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual memory",
+                    "nid": "trm_4a3fd79d0b49e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "context memory",
+                    "nid": "trm_4a3fd79d09e87"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "source memory",
+                    "nid": "trm_4a3fd79d0b18f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of recognition minus accuracy of source identification",
+            "nid": "cnt_4dfa94d49dc90"
+        }
+    ],
+    "color": "#63506d",
+    "name": "source memory test",
+    "nid": "tsk_4a57abb949dd6"
+}

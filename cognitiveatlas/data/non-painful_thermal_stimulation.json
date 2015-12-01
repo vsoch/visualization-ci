@@ -1,0 +1,58 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "thermosensation",
+                    "nid": "trm_4a3fd79d0b39d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "average rating of sensation minus subject rating of sensation",
+            "nid": "cnt_4df2a4cb64388"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "thermosensation",
+                    "nid": "trm_4a3fd79d0b39d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during task minus baseline",
+            "nid": "cnt_4df2a4d2ecac9"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "thermosensation",
+                    "nid": "trm_4a3fd79d0b39d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "rating of sensation minus baseline",
+            "nid": "cnt_4df2a4de25215"
+        }
+    ],
+    "color": "#63506d",
+    "name": "non-painful thermal stimulation",
+    "nid": "trm_4c89910b7f8bc"
+}

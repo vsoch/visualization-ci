@@ -1,0 +1,11 @@
+general:
+  artifacts:
+    - .
+
+test:
+  override:
+    - python -c "from visci.app import run; run()"
+
+dependencies:
+  pre:
+    - sudo apt-get update;

@@ -1,0 +1,118 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "distraction",
+                    "nid": "trm_4a3fd79d0a0f3"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sustained attention",
+                    "nid": "trm_4a3fd79d0b311"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "listening",
+                    "nid": "trm_4a3fd79d0a803"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attention",
+            "nid": "cnt_55a6a4be25a47"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "distraction",
+                    "nid": "trm_4a3fd79d0a0f3"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sustained attention",
+                    "nid": "trm_4a3fd79d0b311"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "listening",
+                    "nid": "trm_4a3fd79d0a803"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hyperactivity",
+            "nid": "cnt_55a6a4c6659ce"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "distraction",
+                    "nid": "trm_4a3fd79d0a0f3"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sustained attention",
+                    "nid": "trm_4a3fd79d0b311"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "listening",
+                    "nid": "trm_4a3fd79d0a803"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                }
+            ],
+            "color": "#d89013",
+            "name": "total severity",
+            "nid": "cnt_55a6a4d4afbbf"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Adult ADHD Clinical Diagnostic Scale",
+    "nid": "trm_5586ff878155d"
+}

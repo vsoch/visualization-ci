@@ -1,0 +1,135 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Inappropriate speech",
+                    "nid": "trm_523c7c886b614"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "irritability",
+                    "nid": "trm_523c7afe39f78"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Irritability/Agitation",
+            "nid": "cnt_523c7cdacdc20"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Inappropriate speech",
+                    "nid": "trm_523c7c886b614"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "irritability",
+                    "nid": "trm_523c7afe39f78"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Lethargy/Social Withdrawal",
+            "nid": "cnt_523c7cf0ea7b4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Inappropriate speech",
+                    "nid": "trm_523c7c886b614"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "irritability",
+                    "nid": "trm_523c7afe39f78"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Stereotypic Behavior",
+            "nid": "cnt_523c7d0de6735"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Inappropriate speech",
+                    "nid": "trm_523c7c886b614"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "irritability",
+                    "nid": "trm_523c7afe39f78"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Inappropriate Speech",
+            "nid": "cnt_523c7d2b82709"
+        }
+    ],
+    "color": "#63506d",
+    "name": "aberrant behavior checklist - community",
+    "nid": "trm_523c7a0a73cf5"
+}

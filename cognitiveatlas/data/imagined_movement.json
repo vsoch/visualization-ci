@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor planning",
+                    "nid": "trm_4a3fd79d0a9a1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imageability",
+                    "nid": "trm_4a3fd79d0a504"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive effort",
+                    "nid": "trm_4a3fd79d09d4d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "real task time minus imagined task time",
+            "nid": "cnt_4dee50b24d8c4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor planning",
+                    "nid": "trm_4a3fd79d0a9a1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imageability",
+                    "nid": "trm_4a3fd79d0a504"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive effort",
+                    "nid": "trm_4a3fd79d09d4d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "real task areas of activation minus imagined task areas of activation",
+            "nid": "cnt_4dee50d11696f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor planning",
+                    "nid": "trm_4a3fd79d0a9a1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imageability",
+                    "nid": "trm_4a3fd79d0a504"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive effort",
+                    "nid": "trm_4a3fd79d09d4d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "real task effort minus imagined task effort",
+            "nid": "cnt_4dee50e19a0a5"
+        }
+    ],
+    "color": "#63506d",
+    "name": "imagined movement",
+    "nid": "trm_4c899005b11d5"
+}

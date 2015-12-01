@@ -1,0 +1,51 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual masking",
+                    "nid": "trm_4a3fd79d0b492"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual awareness",
+                    "nid": "trm_4ff36d79c26c6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition of return",
+                    "nid": "trm_4a3fd79d0a61f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response to first stimulus",
+            "nid": "cnt_4de6c3b459269"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual masking",
+                    "nid": "trm_4a3fd79d0b492"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual awareness",
+                    "nid": "trm_4ff36d79c26c6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition of return",
+                    "nid": "trm_4a3fd79d0a61f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "magnitude of response to second stimulus",
+            "nid": "cnt_4de6c3c82d46d"
+        }
+    ],
+    "color": "#63506d",
+    "name": "rapid serial visual presentation task",
+    "nid": "tsk_4a57abb949879"
+}

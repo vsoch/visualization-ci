@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negativity Scale",
+            "nid": "cnt_4de57f6d43cfd"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Inconsistency Scale",
+            "nid": "cnt_4de57f7db9e97"
+        }
+    ],
+    "color": "#63506d",
+    "name": "behavioral rating inventory of executive function",
+    "nid": "tsk_4a57abb9498ab"
+}

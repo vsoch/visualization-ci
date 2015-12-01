@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual perception",
+                    "nid": "trm_4a3fd79d0b4b5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a301cd38de4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual perception",
+                    "nid": "trm_4a3fd79d0b4b5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent detected",
+            "nid": "cnt_55a301d6d57b9"
+        }
+    ],
+    "color": "#63506d",
+    "name": "object perception task",
+    "nid": "trm_551b0ee81fb6b"
+}

@@ -1,0 +1,423 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "probabilistic classification trials",
+            "nid": "cnt_4cacf26718047"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "proportion of correct responses across all trials minus proportion correct on early trials",
+            "nid": "cnt_4df8e8f10f33a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4df8e900881cf"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "feedback",
+            "nid": "cnt_55399e161c884"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "positive feedback",
+            "nid": "cnt_553a68284e225"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "negative feedback",
+            "nid": "cnt_553a682f464e7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "positive minus negative feedback",
+            "nid": "cnt_553a683d08f6f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "negative feedback processing",
+                    "nid": "trm_557b48e337218"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "positive feedback processing",
+                    "nid": "trm_557b493e4203a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "all",
+            "nid": "cnt_553a706ca6e88"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Probabilistic classification task",
+    "nid": "trm_4cacf22a22d80"
+}

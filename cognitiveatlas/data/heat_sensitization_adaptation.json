@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "pain sensitization ",
+                    "nid": "trm_4e61264db33d4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "pain habituation",
+                    "nid": "trm_4e6127bd91be9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Heat Stimulation versus Baseline",
+            "nid": "cnt_4e6a34f8c2f2c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "heat sensitization/adaptation",
+    "nid": "trm_4e5662373bc89"
+}

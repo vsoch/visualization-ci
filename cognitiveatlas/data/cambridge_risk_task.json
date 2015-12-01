@@ -1,0 +1,43 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reward amount",
+            "nid": "cnt_5005c88d1f7fc"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reward probability",
+            "nid": "cnt_5005c89dd6bef"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reward probability-amount ratio",
+            "nid": "cnt_5005ca466073a"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Cambridge risk task",
+    "nid": "trm_4f242042e5805"
+}

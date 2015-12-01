@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "central coherence",
+                    "nid": "trm_4b82c75498408"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Unsegmented blocks",
+            "nid": "cnt_4b82d26b480ea"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "central coherence",
+                    "nid": "trm_4b82c75498408"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Segmented blocks",
+            "nid": "cnt_4b82d27f31194"
+        }
+    ],
+    "color": "#63506d",
+    "name": "block design test",
+    "nid": "trm_4b7497a289534"
+}

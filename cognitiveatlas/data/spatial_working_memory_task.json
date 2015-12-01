@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_50f864a19c88d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "false positives",
+            "nid": "cnt_50f864aed1ce5"
+        }
+    ],
+    "color": "#63506d",
+    "name": "spatial working memory task",
+    "nid": "trm_4f2453b806fe1"
+}

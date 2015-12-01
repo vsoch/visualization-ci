@@ -1,0 +1,259 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "animacy perception",
+                    "nid": "trm_5159beaf80413"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "animacy decision",
+                    "nid": "trm_557b471bc6cd8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motion detection",
+                    "nid": "trm_557b48aeb7d58"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial attention",
+                    "nid": "trm_4a3fd79d0b1b2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Random Interaction",
+            "nid": "cnt_553147b362347"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "animacy perception",
+                    "nid": "trm_5159beaf80413"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "animacy decision",
+                    "nid": "trm_557b471bc6cd8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motion detection",
+                    "nid": "trm_557b48aeb7d58"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial attention",
+                    "nid": "trm_4a3fd79d0b1b2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Mental Interaction",
+            "nid": "cnt_553147bb4e97d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "animacy perception",
+                    "nid": "trm_5159beaf80413"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "animacy decision",
+                    "nid": "trm_557b471bc6cd8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motion detection",
+                    "nid": "trm_557b48aeb7d58"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial attention",
+                    "nid": "trm_4a3fd79d0b1b2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Random Interaction minus Mental Interaction",
+            "nid": "cnt_553147f2ea504"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "animacy perception",
+                    "nid": "trm_5159beaf80413"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "animacy decision",
+                    "nid": "trm_557b471bc6cd8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motion detection",
+                    "nid": "trm_557b48aeb7d58"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial attention",
+                    "nid": "trm_4a3fd79d0b1b2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative Random Interaction",
+            "nid": "cnt_5531491f76a16"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "animacy perception",
+                    "nid": "trm_5159beaf80413"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "animacy decision",
+                    "nid": "trm_557b471bc6cd8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motion detection",
+                    "nid": "trm_557b48aeb7d58"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial attention",
+                    "nid": "trm_4a3fd79d0b1b2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative Mental Interaction",
+            "nid": "cnt_5531492d016c7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "animacy perception",
+                    "nid": "trm_5159beaf80413"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "animacy decision",
+                    "nid": "trm_557b471bc6cd8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motion detection",
+                    "nid": "trm_557b48aeb7d58"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial attention",
+                    "nid": "trm_4a3fd79d0b1b2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Mental Interaction minus Random Interaction",
+            "nid": "cnt_55314940f18c6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "social cognition (theory of mind) fMRI task paradigm",
+    "nid": "trm_550b557e5f90e"
+}

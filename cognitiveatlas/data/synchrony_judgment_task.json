@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "synchrony perception",
+                    "nid": "trm_4e31e6dca01ca"
+                }
+            ],
+            "color": "#d89013",
+            "name": "cue onset asynchrony ",
+            "nid": "cnt_4e31e4ff71f3c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "synchrony judgment task",
+    "nid": "trm_4e31d031bc8c2"
+}

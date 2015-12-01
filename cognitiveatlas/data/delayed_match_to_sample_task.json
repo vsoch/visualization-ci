@@ -1,0 +1,91 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "Limited Capacity",
+                    "nid": "trm_551f0f822d95e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Interference Control",
+                    "nid": "trm_551f11bb8f6a8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory retrieval",
+                    "nid": "trm_4a3fd79d0ba6c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "memory decay",
+                    "nid": "trm_4a3fd79d0b92c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "goal maintenance",
+                    "nid": "trm_4a3fd79d0a431"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reaction time to correct stimuli",
+            "nid": "cnt_4de90fe2177d0"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "Limited Capacity",
+                    "nid": "trm_551f0f822d95e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Interference Control",
+                    "nid": "trm_551f11bb8f6a8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory retrieval",
+                    "nid": "trm_4a3fd79d0ba6c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "memory decay",
+                    "nid": "trm_4a3fd79d0b92c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "goal maintenance",
+                    "nid": "trm_4a3fd79d0a431"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a3056e571ca"
+        }
+    ],
+    "color": "#63506d",
+    "name": "delayed match to sample task",
+    "nid": "tsk_4a57abb9499e3"
+}

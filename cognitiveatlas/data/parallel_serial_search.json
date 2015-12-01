@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual perception",
+                    "nid": "trm_4a3fd79d0b4b5"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to identify target",
+            "nid": "cnt_55a3028a5477b"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Parallel/serial search",
+    "nid": "trm_551b06cf9783b"
+}

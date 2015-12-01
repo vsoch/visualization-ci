@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "domain specificity",
+                    "nid": "trm_5021684cba96c"
+                }
+            ],
+            "color": "#d89013",
+            "name": "localized brain activation in face matching versus other object matching",
+            "nid": "cnt_502168c10e933"
+        }
+    ],
+    "color": "#63506d",
+    "name": "face matching task",
+    "nid": "trm_4f24247912761"
+}

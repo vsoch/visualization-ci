@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "risky option",
+            "nid": "cnt_4de6c5f53e708"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "non-risky option",
+            "nid": "cnt_4de6c62e9b5da"
+        }
+    ],
+    "color": "#63506d",
+    "name": "choice task between risky and non-risky options",
+    "nid": "trm_4d55a2bbcfdff"
+}

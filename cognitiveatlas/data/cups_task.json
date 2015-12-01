@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "reward processing",
+                    "nid": "trm_4b6525253c63f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk",
+                    "nid": "trm_4a3fd79d0afcf"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "number or value of rewards times probability of reward",
+            "nid": "cnt_4de7d854ceb50"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "reward processing",
+                    "nid": "trm_4b6525253c63f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk",
+                    "nid": "trm_4a3fd79d0afcf"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "money earned",
+            "nid": "cnt_4de7d90024fe4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "reward processing",
+                    "nid": "trm_4b6525253c63f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk",
+                    "nid": "trm_4a3fd79d0afcf"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "probability of highest reward",
+            "nid": "cnt_4de7d90ca34da"
+        }
+    ],
+    "color": "#63506d",
+    "name": "cups task",
+    "nid": "tsk_4a57abb9499d5"
+}

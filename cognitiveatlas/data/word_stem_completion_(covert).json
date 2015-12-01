@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "verbal fluency",
+                    "nid": "trm_4a3fd79d0b44c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during task minus baseline",
+            "nid": "cnt_4e02433a9f223"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "verbal fluency",
+                    "nid": "trm_4a3fd79d0b44c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "ERP strength minus baseline",
+            "nid": "cnt_4e0243468cb6f"
+        }
+    ],
+    "color": "#63506d",
+    "name": "word stem completion (covert)",
+    "nid": "trm_4c8a858da803d"
+}

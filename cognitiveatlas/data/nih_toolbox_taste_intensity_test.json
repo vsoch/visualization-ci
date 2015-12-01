@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "taste aversion",
+                    "nid": "trm_4a3fd79d0b363"
+                }
+            ],
+            "color": "#d89013",
+            "name": "generalized labeled magnitude scale (gLMS)",
+            "nid": "cnt_50f37b522549b"
+        }
+    ],
+    "color": "#63506d",
+    "name": "NIH Toolbox Taste Intensity Test",
+    "nid": "trm_50f379c6c9ea9"
+}

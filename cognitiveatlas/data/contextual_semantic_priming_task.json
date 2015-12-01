@@ -1,0 +1,103 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "congruent",
+            "nid": "cnt_553e742270631"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent",
+            "nid": "cnt_553e742833727"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "scrambled",
+            "nid": "cnt_553e742dd3beb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "letter string",
+            "nid": "cnt_553e7438f2bef"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "scrambled minus letter string",
+            "nid": "cnt_55413a0769113"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "congruent minus scrambled",
+            "nid": "cnt_55413a13ad2fb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent minus congruent",
+            "nid": "cnt_55413a264f834"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent minus scrambled",
+            "nid": "cnt_55413a3228c77"
+        }
+    ],
+    "color": "#63506d",
+    "name": "contextual semantic priming task",
+    "nid": "trm_553e73e29cf7d"
+}

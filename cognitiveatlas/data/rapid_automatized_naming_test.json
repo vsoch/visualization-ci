@@ -1,0 +1,29 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "working memory retrieval",
+                    "nid": "trm_4a3fd79d0ba6c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological encoding",
+                    "nid": "trm_4a3fd79d0ac87"
+                }
+            ],
+            "color": "#d89013",
+            "name": "standard deviation from the mean time",
+            "nid": "cnt_4df914f00dd42"
+        }
+    ],
+    "color": "#63506d",
+    "name": "rapid automatized naming test",
+    "nid": "trm_4b86c2e871b14"
+}

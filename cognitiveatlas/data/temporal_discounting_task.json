@@ -1,0 +1,295 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during task minus baseline",
+            "nid": "cnt_4dff92a9d5875"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "standard deviation of k (discounting)",
+            "nid": "cnt_4dff93d462d38"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "easy trials all",
+            "nid": "cnt_553a6e24c3c78"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "easy parametric",
+            "nid": "cnt_553a6e2abcca9"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hard trials all",
+            "nid": "cnt_553a6e30d85a1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hard parametric",
+            "nid": "cnt_553a6e3c583d8"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "junk",
+            "nid": "cnt_553a6e4424e4d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "all",
+            "nid": "cnt_553a6e49737bf"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "intertemporal choice",
+                    "nid": "trm_558c73324a6ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual number recognition",
+                    "nid": "trm_557b4b47d994a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "subjective value judgment",
+                    "nid": "trm_558c736199abd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hard all minus easy all",
+            "nid": "cnt_553a6e52baf3b"
+        }
+    ],
+    "color": "#63506d",
+    "name": "temporal discounting task",
+    "nid": "tsk_4a57abb949e98"
+}

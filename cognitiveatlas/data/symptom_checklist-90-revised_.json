@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "standard deviation from the mean score",
+            "nid": "cnt_4dfbd9e47c418"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Symptom Checklist-90-Revised ",
+    "nid": "tsk_4a57abb949e5b"
+}

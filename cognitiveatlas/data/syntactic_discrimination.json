@@ -1,0 +1,75 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "text comprehension",
+                    "nid": "trm_4a3fd79d0b37a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4dff7fcf1b8a2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "text comprehension",
+                    "nid": "trm_4a3fd79d0b37a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Plausible Sentences",
+            "nid": "cnt_4dff8003a6b0a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "text comprehension",
+                    "nid": "trm_4a3fd79d0b37a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Implausible Snetences",
+            "nid": "cnt_4dff8030b7e41"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "text comprehension",
+                    "nid": "trm_4a3fd79d0b37a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to implausible sentences minus response time to plausible sentences",
+            "nid": "cnt_4dff80aec63b6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "syntactic discrimination",
+    "nid": "trm_4c8a842512a33"
+}

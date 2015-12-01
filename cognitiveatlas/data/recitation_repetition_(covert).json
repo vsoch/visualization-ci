@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "articulatory rehearsal",
+                    "nid": "trm_4a3fd79d098a6"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during task minus baseline",
+            "nid": "cnt_4e02624559a17"
+        }
+    ],
+    "color": "#63506d",
+    "name": "recitation/repetition (covert)",
+    "nid": "trm_4c8a830dec136"
+}

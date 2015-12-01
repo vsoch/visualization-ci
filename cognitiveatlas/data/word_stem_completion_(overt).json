@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "speech production",
+                    "nid": "trm_4a3fd79d0b247"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "verbal fluency",
+                    "nid": "trm_4a3fd79d0b44c"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during covert minus areas of activation during overt",
+            "nid": "cnt_4e0253808fe82"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "speech production",
+                    "nid": "trm_4a3fd79d0b247"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "verbal fluency",
+                    "nid": "trm_4a3fd79d0b44c"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4e02539674407"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "speech production",
+                    "nid": "trm_4a3fd79d0b247"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "verbal fluency",
+                    "nid": "trm_4a3fd79d0b44c"
+                }
+            ],
+            "color": "#d89013",
+            "name": "ERP strength minus baseline",
+            "nid": "cnt_4e025467f28e7"
+        }
+    ],
+    "color": "#63506d",
+    "name": "word stem completion (overt)",
+    "nid": "trm_4c8a85a4564b2"
+}

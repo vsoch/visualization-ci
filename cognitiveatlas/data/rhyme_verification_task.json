@@ -1,0 +1,192 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual pseudoword recognition",
+                    "nid": "trm_558c73f3c8c6f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological assembly",
+                    "nid": "trm_558c74156b7ee"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical retrieval",
+                    "nid": "trm_4a3fd79d0a7e0"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological comparison",
+                    "nid": "trm_558c73b3663a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "word minus baseline",
+            "nid": "cnt_4d949c8f3101c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual pseudoword recognition",
+                    "nid": "trm_558c73f3c8c6f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological assembly",
+                    "nid": "trm_558c74156b7ee"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical retrieval",
+                    "nid": "trm_4a3fd79d0a7e0"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological comparison",
+                    "nid": "trm_558c73b3663a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "pseudoword minus baseline",
+            "nid": "cnt_4d949c9b01604"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual pseudoword recognition",
+                    "nid": "trm_558c73f3c8c6f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological assembly",
+                    "nid": "trm_558c74156b7ee"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical retrieval",
+                    "nid": "trm_4a3fd79d0a7e0"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological comparison",
+                    "nid": "trm_558c73b3663a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "pseudoword minus word",
+            "nid": "cnt_4dfa36c40f3a1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual pseudoword recognition",
+                    "nid": "trm_558c73f3c8c6f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological assembly",
+                    "nid": "trm_558c74156b7ee"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical retrieval",
+                    "nid": "trm_4a3fd79d0a7e0"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological comparison",
+                    "nid": "trm_558c73b3663a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "word minus pseudoword",
+            "nid": "cnt_553a719509b22"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual pseudoword recognition",
+                    "nid": "trm_558c73f3c8c6f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological assembly",
+                    "nid": "trm_558c74156b7ee"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical retrieval",
+                    "nid": "trm_4a3fd79d0a7e0"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological comparison",
+                    "nid": "trm_558c73b3663a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "all",
+            "nid": "cnt_553a71a13dfc5"
+        }
+    ],
+    "color": "#63506d",
+    "name": "rhyme verification task",
+    "nid": "trm_4d949c5b0e380"
+}

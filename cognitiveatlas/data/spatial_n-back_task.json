@@ -1,0 +1,92 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back",
+            "nid": "cnt_4dfb9a322c52f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "1-back",
+            "nid": "cnt_4dfb9a75a2cff"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back",
+            "nid": "cnt_4dfb9ab8d70ce"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "3-back",
+            "nid": "cnt_4dfb9af098602"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "3-back minus 0-back",
+            "nid": "cnt_4dfb9b0719363"
+        }
+    ],
+    "color": "#63506d",
+    "name": "spatial n-back task",
+    "nid": "tsk_4a57abb949df1"
+}

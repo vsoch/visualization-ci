@@ -1,0 +1,192 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "empathy",
+                    "nid": "trm_4a3fd79d0b67d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "communication total",
+            "nid": "cnt_520613b7ec09c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "empathy",
+                    "nid": "trm_4a3fd79d0b67d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "play total",
+            "nid": "cnt_520613c2e388b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "empathy",
+                    "nid": "trm_4a3fd79d0b67d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social interaction total",
+            "nid": "cnt_520613ce52654"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "empathy",
+                    "nid": "trm_4a3fd79d0b67d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "communication + social interaction total",
+            "nid": "cnt_520613efddbc2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "empathy",
+                    "nid": "trm_4a3fd79d0b67d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "stereotyped behaviors and restricted interests Total",
+            "nid": "cnt_5206140b96f95"
+        }
+    ],
+    "color": "#63506d",
+    "name": "autism diagnostic observation schedule",
+    "nid": "trm_4da891a546d8c"
+}

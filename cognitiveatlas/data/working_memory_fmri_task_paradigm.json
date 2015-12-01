@@ -1,0 +1,1867 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Faces (0-back faces + 2-back faces)",
+            "nid": "cnt_550b52d8506ec"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Places (0-back places + 2-back places)",
+            "nid": "cnt_550b52ec705da"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Tools (0-back tools + 2-back tools)",
+            "nid": "cnt_550b52fd2e6fa"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Body (0-back body + 2-back body)",
+            "nid": "cnt_550b53110c3a8"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back Body",
+            "nid": "cnt_55314aff55913"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back Face",
+            "nid": "cnt_55314b0643005"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back Place",
+            "nid": "cnt_55314b12878f7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back Tool",
+            "nid": "cnt_55314b1edb310"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back Body",
+            "nid": "cnt_55314b2a72bee"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back Face",
+            "nid": "cnt_55314b49e5c9d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back Place",
+            "nid": "cnt_55314b56bceed"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back Tool",
+            "nid": "cnt_55314b5e393d2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back",
+            "nid": "cnt_55314b688f165"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back",
+            "nid": "cnt_55314b6d8b510"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "2-back minus 0-back",
+            "nid": "cnt_55314b78d85fd"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative 2-back",
+            "nid": "cnt_553151539f545"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative 0-back",
+            "nid": "cnt_5531515c422fe"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "0-back minus 2-back",
+            "nid": "cnt_5531516762fb2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Body minus Average",
+            "nid": "cnt_5531517957741"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Face minus Average",
+            "nid": "cnt_55315184e74dd"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Place minus Average",
+            "nid": "cnt_5531518f600cf"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Tool minus Average",
+            "nid": "cnt_5531519b47d97"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative Body",
+            "nid": "cnt_553151b0cb13c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative Face",
+            "nid": "cnt_553151ba0be1f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative Place",
+            "nid": "cnt_553151c3b05f5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Negative Tool",
+            "nid": "cnt_553151ccb63f4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Average minus Body",
+            "nid": "cnt_553151dd37b0d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Average minus Face",
+            "nid": "cnt_553151e627665"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Average minus Place",
+            "nid": "cnt_553151eda891e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "updating",
+                    "nid": "trm_4c3e05903e4bb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual tool recognition",
+                    "nid": "trm_557b4b8cd05ca"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "tool maintenance",
+                    "nid": "trm_557b4aeaeb744"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "body maintenance",
+                    "nid": "trm_557b477b4a15f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual body recognition",
+                    "nid": "trm_557b4af7cc1cb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "place maintenance",
+                    "nid": "trm_557b493133416"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual place recognition",
+                    "nid": "trm_557b4b7e68727"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "face maintenance",
+                    "nid": "trm_55c6f87595b39"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual face recognition",
+                    "nid": "trm_557b4b154e0d9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Average minus Tool",
+            "nid": "cnt_553151fe97771"
+        }
+    ],
+    "color": "#63506d",
+    "name": "working memory fMRI task paradigm",
+    "nid": "trm_550b50095d4a3"
+}

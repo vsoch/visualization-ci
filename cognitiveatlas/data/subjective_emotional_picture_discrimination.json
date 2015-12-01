@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "emotion perception",
+                    "nid": "trm_4a3fd79d0b65a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "emotional rating to picture stimuli minus emotional rating to neutral baseline picture",
+            "nid": "cnt_4dfbd05eb07d6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "subjective emotional picture discrimination",
+    "nid": "trm_4c8a840d6f969"
+}

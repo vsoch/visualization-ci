@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic memory",
+                    "nid": "trm_4a3fd79d0b083"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4df9011fa1f5b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic memory",
+                    "nid": "trm_4a3fd79d0b083"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy during task minus accuracy of some baseline test (like matching)",
+            "nid": "cnt_4df9015bcfad3"
+        }
+    ],
+    "color": "#63506d",
+    "name": "pyramids and palm trees task",
+    "nid": "tsk_4a57abb949d32"
+}

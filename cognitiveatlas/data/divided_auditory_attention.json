@@ -1,0 +1,29 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "acoustic phonetic processing",
+                    "nid": "trm_4a3fd79d09713"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory attention",
+                    "nid": "trm_4a3fd79d09a10"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time and accuracy",
+            "nid": "cnt_4de93a6779688"
+        }
+    ],
+    "color": "#63506d",
+    "name": "divided auditory attention",
+    "nid": "trm_4c898bbab4fd4"
+}

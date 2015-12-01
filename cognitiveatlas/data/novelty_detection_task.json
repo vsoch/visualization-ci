@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a302cbb1f7c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Novelty detection task",
+    "nid": "trm_551eff0fdab74"
+}

@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "association learning",
+                    "nid": "trm_4a3fd79d098c9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reponse to US1 versus response to US2",
+            "nid": "cnt_50240446b8e2e"
+        }
+    ],
+    "color": "#63506d",
+    "name": "counterconditioning",
+    "nid": "trm_50240427b4c1b"
+}

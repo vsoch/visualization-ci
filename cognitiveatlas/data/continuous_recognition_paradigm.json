@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "false memory",
+                    "nid": "trm_4a3fd79d0a323"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "word recognition",
+                    "nid": "trm_4a3fd79d0b58f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "number of false positives",
+            "nid": "cnt_4de7c5b19456f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "false memory",
+                    "nid": "trm_4a3fd79d0a323"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "word recognition",
+                    "nid": "trm_4a3fd79d0b58f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "number of false negatives (missed words)",
+            "nid": "cnt_4de7c5df194ea"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "false memory",
+                    "nid": "trm_4a3fd79d0a323"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "word recognition",
+                    "nid": "trm_4a3fd79d0b58f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "number of correct identifications",
+            "nid": "cnt_4de7c6ae5a2a1"
+        }
+    ],
+    "color": "#63506d",
+    "name": "continuous recognition paradigm",
+    "nid": "tsk_4a57abb9499c7"
+}

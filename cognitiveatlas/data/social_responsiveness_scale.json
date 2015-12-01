@@ -1,0 +1,199 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social awareness",
+            "nid": "cnt_5208ff7d82bce"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "total score",
+            "nid": "cnt_5208ff894a6b7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social cognition",
+            "nid": "cnt_5208ffc82d64b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "autistic mannerisms",
+            "nid": "cnt_5208fff0019d6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social communication",
+            "nid": "cnt_520900032796f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social motivation",
+            "nid": "cnt_520900265b01d"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Social Responsiveness Scale",
+    "nid": "trm_5208fe678c652"
+}

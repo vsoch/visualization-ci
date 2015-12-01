@@ -1,0 +1,91 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "deterministic classification trials",
+            "nid": "cnt_4ebca72d737c1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual word recognition",
+                    "nid": "trm_557b4b9ccdc4a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reinforcement learning",
+                    "nid": "trm_557b4993a0fdd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "feedback",
+            "nid": "cnt_55399dc274d97"
+        }
+    ],
+    "color": "#63506d",
+    "name": "deterministic classification",
+    "nid": "trm_4e8dd3831f0cc"
+}

@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "rigidity",
+                    "nid": "trm_523e0a4b443dc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "aloof personality",
+            "nid": "cnt_523dfd6ddf9ef"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "rigidity",
+                    "nid": "trm_523e0a4b443dc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "rigid personality",
+            "nid": "cnt_523dfd7f816b6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "rigidity",
+                    "nid": "trm_523e0a4b443dc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "pragmatic language",
+            "nid": "cnt_523dfd9d6a5ba"
+        }
+    ],
+    "color": "#63506d",
+    "name": "broad autism phenotype questionnaire",
+    "nid": "trm_523dfd5b7a9f1"
+}

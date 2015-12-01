@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "articulatory rehearsal",
+                    "nid": "trm_4a3fd79d098a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "speech production",
+                    "nid": "trm_4a3fd79d0b247"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during task minus baseline",
+            "nid": "cnt_534690b1afd30"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "articulatory rehearsal",
+                    "nid": "trm_4a3fd79d098a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "speech production",
+                    "nid": "trm_4a3fd79d0b247"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during covert minus areas of activation during overt",
+            "nid": "cnt_534690b1b9fd1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "articulatory rehearsal",
+                    "nid": "trm_4a3fd79d098a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "speech production",
+                    "nid": "trm_4a3fd79d0b247"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Repetition minus baseline",
+            "nid": "cnt_5346921d1d3fa"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Overt word repetition",
+    "nid": "trm_534690b0e9dc5"
+}

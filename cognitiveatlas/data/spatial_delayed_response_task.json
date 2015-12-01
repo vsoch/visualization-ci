@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "one cue versus two cues",
+            "nid": "cnt_500712871f6d5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial working memory",
+                    "nid": "trm_4a3fd79d0b1e0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "short versus long",
+            "nid": "cnt_5007128e8defa"
+        }
+    ],
+    "color": "#63506d",
+    "name": "spatial delayed response task",
+    "nid": "trm_4dadbe225bdf1"
+}

@@ -1,0 +1,29 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic memory",
+                    "nid": "trm_4a3fd79d0b083"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual object recognition",
+                    "nid": "trm_4a3fd79d0b4a9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "object recognition",
+                    "nid": "trm_4a3fd79d0aab0"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of age-matched controls",
+            "nid": "cnt_4df6a77053b3f"
+        }
+    ],
+    "color": "#63506d",
+    "name": "picture naming task",
+    "nid": "tsk_4a57abb949cfb"
+}

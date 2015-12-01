@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "happiness",
+                    "nid": "trm_4a3fd79d0b6ad"
+                }
+            ],
+            "color": "#d89013",
+            "name": "survey IRT score",
+            "nid": "cnt_50f37f45b00e2"
+        }
+    ],
+    "color": "#63506d",
+    "name": "NIH Toolbox Vision-Related Quality of Life Survey",
+    "nid": "trm_50f37f231aa4c"
+}

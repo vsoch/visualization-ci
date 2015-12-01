@@ -1,0 +1,58 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Switch trial",
+            "nid": "cnt_4bd1ebae45752"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Repeat trial",
+            "nid": "cnt_4bd1ebdb08e17"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                }
+            ],
+            "color": "#d89013",
+            "name": "switch trial - repeat trial = switch cost",
+            "nid": "cnt_4bd1ec505dd14"
+        }
+    ],
+    "color": "#63506d",
+    "name": "task-switching ",
+    "nid": "tsk_4a57abb949e8a"
+}

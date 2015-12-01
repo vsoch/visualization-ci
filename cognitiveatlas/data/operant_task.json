@@ -1,0 +1,95 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spontaneous recovery",
+                    "nid": "trm_5024002a85b1f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "instrumental conditioning",
+                    "nid": "trm_4a3fd79d0a642"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "contingency learning",
+                    "nid": "trm_4a3fd79d09e9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "punishment",
+            "nid": "cnt_50241122ad82b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spontaneous recovery",
+                    "nid": "trm_5024002a85b1f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "instrumental conditioning",
+                    "nid": "trm_4a3fd79d0a642"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "contingency learning",
+                    "nid": "trm_4a3fd79d09e9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reinforcement",
+            "nid": "cnt_5024120d1b9af"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spontaneous recovery",
+                    "nid": "trm_5024002a85b1f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "instrumental conditioning",
+                    "nid": "trm_4a3fd79d0a642"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "contingency learning",
+                    "nid": "trm_4a3fd79d09e9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "behavior - consequence interval",
+            "nid": "cnt_5024196b356d6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spontaneous recovery",
+                    "nid": "trm_5024002a85b1f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "instrumental conditioning",
+                    "nid": "trm_4a3fd79d0a642"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "contingency learning",
+                    "nid": "trm_4a3fd79d09e9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "post-extinction duration",
+            "nid": "cnt_5032be8b13109"
+        }
+    ],
+    "color": "#63506d",
+    "name": "operant task",
+    "nid": "trm_50240f06af135"
+}

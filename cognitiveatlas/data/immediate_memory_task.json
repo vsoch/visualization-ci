@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                }
+            ],
+            "color": "#d89013",
+            "name": "commission errors (false alarms)",
+            "nid": "cnt_50070d3b312f4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                }
+            ],
+            "color": "#d89013",
+            "name": "proportion of correct to incorrect responses",
+            "nid": "cnt_50070f5d10c03"
+        }
+    ],
+    "color": "#63506d",
+    "name": "immediate memory task",
+    "nid": "trm_4fba857ad04ac"
+}

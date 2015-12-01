@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "pain",
+                    "nid": "trm_4b65259eeee34"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Capsaicin-Evoked Pain versus Rest",
+            "nid": "cnt_4e6a2fce43903"
+        }
+    ],
+    "color": "#63506d",
+    "name": "capsaicin-evoked pain",
+    "nid": "trm_4e6a2f61b17b0"
+}

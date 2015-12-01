@@ -1,0 +1,115 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sentence comprehension",
+                    "nid": "trm_4a3fd79d0b892"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Semantically correct",
+            "nid": "cnt_4dfa6ad39f546"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sentence comprehension",
+                    "nid": "trm_4a3fd79d0b892"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Semantically anomalous",
+            "nid": "cnt_4dfa6b1c622b1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sentence comprehension",
+                    "nid": "trm_4a3fd79d0b892"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "d&#39; (difference between correct identifications and false alarms)",
+            "nid": "cnt_4dfa6bad0c724"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sentence comprehension",
+                    "nid": "trm_4a3fd79d0b892"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological working memory",
+                    "nid": "trm_4a3fd79d0ac9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy on semantically anomalous sentences minus accuracy on semantically correct sentences",
+            "nid": "cnt_4dfa6be222aa7"
+        }
+    ],
+    "color": "#63506d",
+    "name": "semantic anomaly judgement task",
+    "nid": "tsk_4a57abb949d84"
+}

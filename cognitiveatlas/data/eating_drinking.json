@@ -1,0 +1,51 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "high energy density food recognition",
+                    "nid": "trm_55c298bbe56d5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "self monitoring",
+                    "nid": "trm_4a3fd79d0b05e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                }
+            ],
+            "color": "#d89013",
+            "name": "amount consumed",
+            "nid": "cnt_4de95f0aa8476"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "high energy density food recognition",
+                    "nid": "trm_55c298bbe56d5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "self monitoring",
+                    "nid": "trm_4a3fd79d0b05e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                }
+            ],
+            "color": "#d89013",
+            "name": "food choice periods of high energy trials versus food choice periods of low energy trials",
+            "nid": "cnt_55ef440b3f6f2"
+        }
+    ],
+    "color": "#63506d",
+    "name": "eating/drinking",
+    "nid": "trm_4c898c0786246"
+}

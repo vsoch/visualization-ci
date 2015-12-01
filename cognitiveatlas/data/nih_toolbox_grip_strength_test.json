@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "Strength",
+                    "nid": "trm_50eb5469ba37a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "pounds or kilograms of force",
+            "nid": "cnt_50eb53a183bb6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "NIH Toolbox Grip Strength Test",
+    "nid": "trm_50eb51c2cd9fe"
+}

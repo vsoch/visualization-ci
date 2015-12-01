@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial memory",
+                    "nid": "trm_4a3fd79d0b1d5"
+                }
+            ],
+            "color": "#d89013",
+            "name": "angular distance between test view and study view",
+            "nid": "cnt_501715cead551"
+        }
+    ],
+    "color": "#63506d",
+    "name": "scene recognition task",
+    "nid": "trm_4da6327154fd4"
+}

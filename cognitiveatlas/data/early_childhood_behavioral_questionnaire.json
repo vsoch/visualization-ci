@@ -1,0 +1,1123 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "activity level / energy",
+            "nid": "cnt_5298e7d15982e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attentional focusing",
+            "nid": "cnt_5298e7de72d54"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attentional shifting",
+            "nid": "cnt_5298e7e9cce5d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "cuddliness",
+            "nid": "cnt_5298e7f615c45"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "discomfort",
+            "nid": "cnt_5298e7ffb4564"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "fear",
+            "nid": "cnt_5298e814e6fcd"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "frustration",
+            "nid": "cnt_5298e8212f015"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "high intensity pleasure",
+            "nid": "cnt_5298e8307848f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "impulsivity",
+            "nid": "cnt_5298e85d6d494"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "inhibitory control",
+            "nid": "cnt_5298e86a0ad46"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "low intensity pleasure",
+            "nid": "cnt_5298e8770e879"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "motor activation",
+            "nid": "cnt_5298e898828cf"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "perceptual sensitivity",
+            "nid": "cnt_5298e8a800088"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "positive anticipation",
+            "nid": "cnt_5298e8b54ac46"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sadness",
+            "nid": "cnt_5298e8c899b82"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "shyness",
+            "nid": "cnt_5298e8d589544"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "soothability",
+            "nid": "cnt_5298e8e13c3a3"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anticipation",
+                    "nid": "trm_4a3fd79d09849"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "frustration",
+                    "nid": "trm_4a3fd79d0b695"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sociability",
+            "nid": "cnt_5298ea6de528f"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Early Childhood Behavioral Questionnaire",
+    "nid": "trm_5298e7a465b41"
+}

@@ -1,0 +1,64 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "elaborative rehearsal",
+                    "nid": "trm_4a3fd79d0b8d9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "articulatory rehearsal",
+                    "nid": "trm_4a3fd79d098a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "phonological encoding",
+                    "nid": "trm_4a3fd79d0ac87"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical encoding",
+                    "nid": "trm_4a3fd79d0a7d4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "grammatical encoding",
+                    "nid": "trm_4a3fd79d0b756"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "encoding",
+                    "nid": "trm_4a3fd79d0b8e5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "effortful processing",
+                    "nid": "trm_4a3fd79d0a15c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory encoding",
+                    "nid": "trm_4a3fd79d09a49"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory coding",
+                    "nid": "trm_4a3fd79d09a3d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "acoustic encoding",
+                    "nid": "trm_4a3fd79d09707"
+                }
+            ],
+            "color": "#d89013",
+            "name": "# items remembered with encoding task - number remembered without",
+            "nid": "cnt_4de968d88e3d3"
+        }
+    ],
+    "color": "#63506d",
+    "name": "encoding task",
+    "nid": "trm_4c898c33ee5f8"
+}

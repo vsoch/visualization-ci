@@ -1,0 +1,43 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "interference",
+                    "nid": "trm_4a3fd79d0a6ad"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Congruent",
+            "nid": "cnt_4b8436b57862e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "interference",
+                    "nid": "trm_4a3fd79d0a6ad"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Incongruent",
+            "nid": "cnt_4b8436c051c94"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "interference",
+                    "nid": "trm_4a3fd79d0a6ad"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Incongruent",
+            "nid": "cnt_4b8436e073769"
+        }
+    ],
+    "color": "#63506d",
+    "name": "chimeric animal Stroop task",
+    "nid": "trm_4b843655d5d75"
+}

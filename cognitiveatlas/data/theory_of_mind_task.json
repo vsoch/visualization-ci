@@ -1,0 +1,29 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "emotional intelligence",
+                    "nid": "trm_4a3fd79d0a1a2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "empathy",
+                    "nid": "trm_4a3fd79d0b67d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "average score minus participant&#39;s score",
+            "nid": "cnt_4dffaa78530b6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "theory of mind task",
+    "nid": "trm_4c8a8467304e2"
+}

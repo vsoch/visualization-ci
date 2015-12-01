@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "logical reasoning",
+                    "nid": "trm_4a3fd79d0a81b"
+                }
+            ],
+            "color": "#d89013",
+            "name": "proportion of correct responses",
+            "nid": "cnt_5021ae2c2ab3c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "logical reasoning task",
+    "nid": "trm_4f24154867d84"
+}

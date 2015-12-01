@@ -1,0 +1,75 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "deception",
+                    "nid": "trm_4a3fd79d0a02c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hider",
+            "nid": "cnt_4de7dc695fabb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "deception",
+                    "nid": "trm_4a3fd79d0a02c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "guesser",
+            "nid": "cnt_4de7dcca346d1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "deception",
+                    "nid": "trm_4a3fd79d0a02c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "object occlusion and misinformation scores",
+            "nid": "cnt_4de7ddfb129a6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "deception",
+                    "nid": "trm_4a3fd79d0a02c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy",
+            "nid": "cnt_4de7de54cdce7"
+        }
+    ],
+    "color": "#63506d",
+    "name": "deception task",
+    "nid": "trm_4c898b4b463aa"
+}

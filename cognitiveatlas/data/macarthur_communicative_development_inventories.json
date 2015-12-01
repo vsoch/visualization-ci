@@ -1,0 +1,160 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "mean length of utterance (MLU) score",
+            "nid": "cnt_5021b4664cfbb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "frequency of overregularization",
+            "nid": "cnt_5021b53e64523"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "usage of correct irregular word forms",
+            "nid": "cnt_5021b5773a9ae"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "comprehension of common phrases",
+            "nid": "cnt_5022b4801fb23"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "comprehension of single words",
+            "nid": "cnt_5022b48dbd8e8"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "vocabulary production",
+            "nid": "cnt_5022b4da18b61"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "gesture production",
+            "nid": "cnt_5022b5173b371"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "use of suffixes",
+            "nid": "cnt_5022b539a2698"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language acquisition",
+                    "nid": "trm_4a3fd79d0b7f4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "language comprehension",
+                    "nid": "trm_4a3fd79d0a775"
+                }
+            ],
+            "color": "#d89013",
+            "name": "onset of combinatorial language",
+            "nid": "cnt_5022b5727f9d6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "MacArthur Communicative Development Inventories",
+    "nid": "trm_4da891794859f"
+}

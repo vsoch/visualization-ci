@@ -1,0 +1,51 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "lexical encoding",
+                    "nid": "trm_4a3fd79d0a7d4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sublexical route",
+                    "nid": "trm_4a3fd79d0b2b4"
+                }
+            ],
+            "color": "#d89013",
+            "name": "pressure exerted by participant minus average pressure",
+            "nid": "cnt_4e025d79cc9f9"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "lexical encoding",
+                    "nid": "trm_4a3fd79d0a7d4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sublexical route",
+                    "nid": "trm_4a3fd79d0b2b4"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4e025d8d96ecf"
+        }
+    ],
+    "color": "#63506d",
+    "name": "writing task",
+    "nid": "trm_4c8a85c5c75eb"
+}

@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time * accuracy compared to median",
+            "nid": "cnt_5022b85961b86"
+        }
+    ],
+    "color": "#63506d",
+    "name": "matching familiar figures test",
+    "nid": "trm_4da87b8bf1511"
+}

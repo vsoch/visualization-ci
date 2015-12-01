@@ -1,0 +1,29 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "linguistic competence",
+                    "nid": "trm_4a3fd79d0a7f8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "grammatical encoding",
+                    "nid": "trm_4a3fd79d0b756"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "syntactic parsing",
+                    "nid": "trm_4a3fd79d0b340"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4dfbe08944a96"
+        }
+    ],
+    "color": "#63506d",
+    "name": "syntactic acceptability judgement task",
+    "nid": "tsk_4a57abb949e7c"
+}

@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual perception",
+                    "nid": "trm_4a3fd79d0b4b5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4e00e397017e2"
+        }
+    ],
+    "color": "#63506d",
+    "name": "visual alignment task ",
+    "nid": "tsk_4a57abb949edb"
+}

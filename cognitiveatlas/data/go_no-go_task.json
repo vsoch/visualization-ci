@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "behavioral inhibition (cognitive)",
+                    "nid": "trm_4b7c270940f9d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Go trials",
+            "nid": "cnt_4b4a2f2e27574"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "behavioral inhibition (cognitive)",
+                    "nid": "trm_4b7c270940f9d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Stop trial",
+            "nid": "cnt_4b4a2f46e2faa"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "behavioral inhibition (cognitive)",
+                    "nid": "trm_4b7c270940f9d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                }
+            ],
+            "color": "#d89013",
+            "name": "stop minus go",
+            "nid": "cnt_4ded4dc5b5118"
+        }
+    ],
+    "color": "#63506d",
+    "name": "go/no-go task",
+    "nid": "tsk_4a57abb949a93"
+}

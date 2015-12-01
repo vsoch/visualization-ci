@@ -1,0 +1,88 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "Limited Capacity",
+                    "nid": "trm_551f0f822d95e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                }
+            ],
+            "color": "#d89013",
+            "name": "false positives",
+            "nid": "cnt_515490d277b2e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "Limited Capacity",
+                    "nid": "trm_551f0f822d95e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                }
+            ],
+            "color": "#d89013",
+            "name": "number correct",
+            "nid": "cnt_5154924daead4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "Limited Capacity",
+                    "nid": "trm_551f0f822d95e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "active maintenance",
+                    "nid": "trm_4a3fd79d0ba0d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a304d1cfc84"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Change Detection Task",
+    "nid": "trm_5154906cbead5"
+}

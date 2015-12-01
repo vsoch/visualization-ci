@@ -1,0 +1,39 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "Limited Capacity",
+                    "nid": "trm_551f0f822d95e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "processing capacity",
+                    "nid": "trm_4a3fd79d0adf4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perceptual identification",
+                    "nid": "trm_4a3fd79d0abaa"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive load",
+                    "nid": "trm_4a3fd79d09d64"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4dfa523d45d5b"
+        }
+    ],
+    "color": "#63506d",
+    "name": "self ordered pointing task",
+    "nid": "trm_4c40d325977f0"
+}

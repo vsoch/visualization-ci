@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "stroop inference versus color naming",
+            "nid": "cnt_55428542ad068"
+        }
+    ],
+    "color": "#63506d",
+    "name": "color-word stroop with task switching",
+    "nid": "trm_5542841f3dcd5"
+}

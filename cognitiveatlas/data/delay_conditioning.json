@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "association learning",
+                    "nid": "trm_4a3fd79d098c9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "CS-US interval",
+            "nid": "cnt_5023f9f966183"
+        }
+    ],
+    "color": "#63506d",
+    "name": "delay conditioning",
+    "nid": "trm_5023ef8eab626"
+}

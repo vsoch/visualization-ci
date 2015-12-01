@@ -1,0 +1,43 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "pain",
+                    "nid": "trm_4b65259eeee34"
+                }
+            ],
+            "color": "#d89013",
+            "name": "regulate up",
+            "nid": "cnt_565a335495029"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "pain",
+                    "nid": "trm_4b65259eeee34"
+                }
+            ],
+            "color": "#d89013",
+            "name": "regulate down",
+            "nid": "cnt_565a335d476eb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "pain",
+                    "nid": "trm_4b65259eeee34"
+                }
+            ],
+            "color": "#d89013",
+            "name": "regulate up minus regulate down",
+            "nid": "cnt_565a33703badb"
+        }
+    ],
+    "color": "#63506d",
+    "name": "regulated heat stimulation",
+    "nid": "trm_565a31fa6f444"
+}

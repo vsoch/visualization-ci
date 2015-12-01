@@ -1,0 +1,117 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical processing",
+                    "nid": "trm_4a3fd79d0b826"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "morphological processing",
+                    "nid": "trm_4a3fd79d0b832"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Word",
+            "nid": "cnt_4df8fae1e604a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical processing",
+                    "nid": "trm_4a3fd79d0b826"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "morphological processing",
+                    "nid": "trm_4a3fd79d0b832"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Morphologically Decomposable Pseudowords",
+            "nid": "cnt_4df8fb518c099"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical processing",
+                    "nid": "trm_4a3fd79d0b826"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "morphological processing",
+                    "nid": "trm_4a3fd79d0b832"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Morphologically Non-decomposable Pseudowords",
+            "nid": "cnt_4df8fb9e0224f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical processing",
+                    "nid": "trm_4a3fd79d0b826"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "morphological processing",
+                    "nid": "trm_4a3fd79d0b832"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Response time to morphologically non-decomposable pseudowords minus response time to morphologically decomposable psuedowords",
+            "nid": "cnt_4df8fc0a76f53"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical processing",
+                    "nid": "trm_4a3fd79d0b826"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "morphological processing",
+                    "nid": "trm_4a3fd79d0b832"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to pseudowords minus response time to words",
+            "nid": "cnt_4df8fc1e54759"
+        }
+    ],
+    "color": "#63506d",
+    "name": "pseudoword naming task",
+    "nid": "tsk_4a57abb949d25"
+}

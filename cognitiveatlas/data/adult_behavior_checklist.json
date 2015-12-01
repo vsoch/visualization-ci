@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Internalizing",
+            "nid": "cnt_523ca992819fd"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Externalizing",
+            "nid": "cnt_523ca9488df58"
+        }
+    ],
+    "color": "#63506d",
+    "name": "adult behavior checklist",
+    "nid": "trm_523ca67b786d5"
+}

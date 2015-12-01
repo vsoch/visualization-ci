@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sentence processing",
+                    "nid": "trm_4a3fd79d0b89e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visuospatial sketch pad",
+                    "nid": "trm_4a3fd79d0b507"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reading span of participant minus average reading span of controls",
+            "nid": "cnt_4df928c85f523"
+        }
+    ],
+    "color": "#63506d",
+    "name": "reading span task",
+    "nid": "trm_4c40d168898db"
+}

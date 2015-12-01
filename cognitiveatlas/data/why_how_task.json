@@ -1,0 +1,183 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "why minus how",
+            "nid": "cnt_553fcacc72dd6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "belief minus photo",
+            "nid": "cnt_553fcad9e49ee"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "[why minus how] minus [belief minus photo] (interaction)",
+            "nid": "cnt_553fcb03070af"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "why face minus how face",
+            "nid": "cnt_55410975ce70b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "why hand minus how hand",
+            "nid": "cnt_5541098145b5a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "why nonsocial minus how nonsocial",
+            "nid": "cnt_55410992b9c4b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "[why face minus how nonsocial] minus [why nonsocial minus how face]",
+            "nid": "cnt_554109af50e85"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "causal inference",
+                    "nid": "trm_4a3fd79d09c5b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional face recognition",
+                    "nid": "trm_557b482a7c62b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "theory of mind",
+                    "nid": "trm_4a3fd79d0b392"
+                }
+            ],
+            "color": "#d89013",
+            "name": "[why hand minus how nonsocial] minus [why nonsocial minus how hand]",
+            "nid": "cnt_554109c5544c8"
+        }
+    ],
+    "color": "#63506d",
+    "name": "why/how task",
+    "nid": "trm_53c4465b0466f"
+}

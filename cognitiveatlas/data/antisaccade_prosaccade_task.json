@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "overt attention",
+                    "nid": "trm_4feb3f8c551cb"
+                }
+            ],
+            "color": "#d89013",
+            "name": "antisaccade",
+            "nid": "cnt_4de55b6707536"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "overt attention",
+                    "nid": "trm_4feb3f8c551cb"
+                }
+            ],
+            "color": "#d89013",
+            "name": "prosaccade",
+            "nid": "cnt_4de55b77a9984"
+        }
+    ],
+    "color": "#63506d",
+    "name": "antisaccade/prosaccade task",
+    "nid": "tsk_4a57abb949869"
+}

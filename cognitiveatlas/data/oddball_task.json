@@ -1,0 +1,551 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "ERP strength minus baseline",
+            "nid": "cnt_4df66a33d6b43"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation during task minus baseline",
+            "nid": "cnt_4df66a407cc2e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4df66a5dec65d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory oddball stimulus presentation",
+            "nid": "cnt_553a75dbedfc5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory standard stimulus presentation",
+            "nid": "cnt_553a75fe3ca65"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "behavioral response time following auditory oddball stimulus onset",
+            "nid": "cnt_553a76353b465"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory all",
+            "nid": "cnt_553a763e198f5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory oddball",
+            "nid": "cnt_553a7675c00bc"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory reaction time",
+            "nid": "cnt_553a767c981c7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory standard",
+            "nid": "cnt_553a7683a550a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "auditory targets minus standards",
+            "nid": "cnt_553a768dc270f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "visual oddball stimulus presentation",
+            "nid": "cnt_553a769fcbf40"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "visual standard stimulus presentation",
+            "nid": "cnt_553a7710d845a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "behavioral response time following visual oddball stimulus onset",
+            "nid": "cnt_553a772e8ed98"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "visual all",
+            "nid": "cnt_553a773529f0e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "visual targets minus standards",
+            "nid": "cnt_553a7740160a3"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual form discrimination",
+                    "nid": "trm_557b4b27dfd5e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual color discrimination",
+                    "nid": "trm_557b4b05ae470"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "oddball detection",
+                    "nid": "trm_557b491318742"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory tone discrimination",
+                    "nid": "trm_557b476527a27"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a303c74baf9"
+        }
+    ],
+    "color": "#63506d",
+    "name": "oddball task",
+    "nid": "tsk_4a57abb949bf6"
+}

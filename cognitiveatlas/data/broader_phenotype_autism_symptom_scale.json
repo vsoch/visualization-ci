@@ -1,0 +1,115 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conversational skill",
+                    "nid": "trm_4a3fd79d09ee6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social interest",
+            "nid": "cnt_524055e0365e7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conversational skill",
+                    "nid": "trm_4a3fd79d09ee6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "expressiveness",
+            "nid": "cnt_524055ec1c81d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conversational skill",
+                    "nid": "trm_4a3fd79d09ee6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "restricted interests",
+            "nid": "cnt_52405600433b6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conversational skill",
+                    "nid": "trm_4a3fd79d09ee6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social intelligence",
+                    "nid": "trm_4a3fd79d0b154"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "conversational skill",
+            "nid": "cnt_5240560bb6b8c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "broader phenotype autism symptom scale",
+    "nid": "trm_524055ac4fecf"
+}

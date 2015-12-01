@@ -1,0 +1,1619 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "ADHD Inattentive - Severity Score",
+            "nid": "cnt_523df6dc5a14b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "ADHD Combined - Severity Score",
+            "nid": "cnt_523df6e767ea6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "ADHD Hyperactivity / Impulsivity - Severity Score",
+            "nid": "cnt_523df7075b68e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Conduct Disorder - Severity Score",
+            "nid": "cnt_523df7166b0aa"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Antisocial Personality - Severity Score",
+            "nid": "cnt_523df727b2b2d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "General Anxiety Disorder - Severity Score",
+            "nid": "cnt_523df733af85f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Opposition Defiant Disorder - Severity Score",
+            "nid": "cnt_523df74587157"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Specific Phobia - Severity Score",
+            "nid": "cnt_523df759d51e4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Panic Attack - Severity Score",
+            "nid": "cnt_523df76abff7c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Obsessions - Severity Score",
+            "nid": "cnt_523df778821d2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Compulsions - Severity Score",
+            "nid": "cnt_523df7816b16b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "PTSD - Severity Score",
+            "nid": "cnt_523df78aee64c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Motor Tics - Severity Score",
+            "nid": "cnt_523df7992469b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Vocal Tics - Severity Score",
+            "nid": "cnt_523df7a5120c9"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Somatization Disorder - Severity Score",
+            "nid": "cnt_523df7b28d95a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Social Phobia - Severity Score",
+            "nid": "cnt_523df7c01a116"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Separation Anxiety - Severity Score",
+            "nid": "cnt_523df7d6697ef"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Schizoid Personality - Severity Score",
+            "nid": "cnt_523df7e0f0100"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Schizophrenia - Severity Score",
+            "nid": "cnt_523df7fc9aa9f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Nocturnal Enuresis - Severity Score",
+            "nid": "cnt_523df80a6d9a1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Major Depressive Disorder - Severity Score",
+            "nid": "cnt_523df8243edb4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Enuresis, Encopresis - Severity Score",
+            "nid": "cnt_523df830e8f93"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Dysthymic Disorder - Severity Score",
+            "nid": "cnt_523df847494a2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Anorexia Nervosa - Severity Score",
+            "nid": "cnt_523df856697a2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Bipolar Disorder - Severity Score",
+            "nid": "cnt_523df86e56445"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "antisocial personality",
+                    "nid": "trm_523e024c14df9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Bulimia Nervosa - Severity Score",
+            "nid": "cnt_523df87d24f91"
+        }
+    ],
+    "color": "#63506d",
+    "name": "adolescent symptom inventory",
+    "nid": "trm_523df616da8a6"
+}

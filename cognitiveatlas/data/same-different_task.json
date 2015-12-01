@@ -1,0 +1,196 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Difficulty Level 1",
+            "nid": "cnt_4b7c041db99fb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Difficulty Level 2",
+            "nid": "cnt_4b7c04350ce30"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Difficulty Level 3",
+            "nid": "cnt_4b7c044e556ea"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Accuracy on level 3 minus accuracy on level 1",
+            "nid": "cnt_4dfa42ba0f7c2"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Overall accuracy of participant minus average accuracy",
+            "nid": "cnt_4dfa42dddd062"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "percent correct",
+            "nid": "cnt_55a30313da429"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "judgment",
+                    "nid": "trm_4a3fd79d0a723"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "set shifting",
+                    "nid": "trm_4a3fd79d0b607"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time",
+            "nid": "cnt_55a303261a647"
+        }
+    ],
+    "color": "#63506d",
+    "name": "same-different task",
+    "nid": "trm_4b75ea4ddd896"
+}

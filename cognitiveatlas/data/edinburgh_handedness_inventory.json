@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sum of strength scores x sum of items per hand",
+            "nid": "cnt_4de963f853b03"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Edinburgh Handedness Inventory",
+    "nid": "tsk_4a57abb949a41"
+}

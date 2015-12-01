@@ -1,0 +1,199 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "total score",
+            "nid": "cnt_51dd9e934148a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social skill",
+            "nid": "cnt_51ec19c434db0"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attention switching",
+            "nid": "cnt_51ec19d22283e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attention to detail",
+            "nid": "cnt_51ec19df23bcb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "communication",
+            "nid": "cnt_51ec19f5be290"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention shifting",
+                    "nid": "trm_4a3fd79d0b5fb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "imagination",
+                    "nid": "trm_4f4511e519b53"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "imagination",
+            "nid": "cnt_51ec1a03c57f1"
+        }
+    ],
+    "color": "#63506d",
+    "name": "autism spectrum quotient",
+    "nid": "trm_51d6fe3f3942f"
+}

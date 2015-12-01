@@ -1,0 +1,259 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial selective attention",
+                    "nid": "trm_557b4abe521af"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "resistance to distractor inference",
+                    "nid": "trm_557b499fac085"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response conflict",
+                    "nid": "trm_557b49ad14adf"
+                }
+            ],
+            "color": "#d89013",
+            "name": "congruent correct",
+            "nid": "cnt_4decfedb91973"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial selective attention",
+                    "nid": "trm_557b4abe521af"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "resistance to distractor inference",
+                    "nid": "trm_557b499fac085"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response conflict",
+                    "nid": "trm_557b49ad14adf"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent correct",
+            "nid": "cnt_4decff04d5cb5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial selective attention",
+                    "nid": "trm_557b4abe521af"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "resistance to distractor inference",
+                    "nid": "trm_557b499fac085"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response conflict",
+                    "nid": "trm_557b49ad14adf"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent response time minus congruent response time",
+            "nid": "cnt_4decff6567821"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial selective attention",
+                    "nid": "trm_557b4abe521af"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "resistance to distractor inference",
+                    "nid": "trm_557b499fac085"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response conflict",
+                    "nid": "trm_557b49ad14adf"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent minus congruent correct",
+            "nid": "cnt_5358f019cdf06"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial selective attention",
+                    "nid": "trm_557b4abe521af"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "resistance to distractor inference",
+                    "nid": "trm_557b499fac085"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response conflict",
+                    "nid": "trm_557b49ad14adf"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incorrect minus correct",
+            "nid": "cnt_553a694a86e65"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial selective attention",
+                    "nid": "trm_557b4abe521af"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "error detection",
+                    "nid": "trm_4a3fd79d0a20c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "resistance to distractor inference",
+                    "nid": "trm_557b499fac085"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response conflict",
+                    "nid": "trm_557b49ad14adf"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incorrect minus correct incongruent",
+            "nid": "cnt_553a695e0415c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Eriksen flanker task",
+    "nid": "tsk_4a57abb949a4f"
+}

@@ -1,0 +1,39 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "cognitive control",
+                    "nid": "trm_4aae62e4ad209"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "processing capacity",
+                    "nid": "trm_4a3fd79d0adf4"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reasoning",
+                    "nid": "trm_4a3fd79d0aec1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "spatial ability",
+                    "nid": "trm_4a3fd79d0b1a6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "subject score minus population-matched average score",
+            "nid": "cnt_4df26816e1c98"
+        }
+    ],
+    "color": "#63506d",
+    "name": "MicroCog",
+    "nid": "trm_4b9568b2865c2"
+}

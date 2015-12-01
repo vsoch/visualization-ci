@@ -1,0 +1,51 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "central executive",
+                    "nid": "trm_4a3fd79d0ba25"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "automaticity",
+                    "nid": "trm_4a3fd79d09b28"
+                }
+            ],
+            "color": "#d89013",
+            "name": "dual minus control",
+            "nid": "cnt_500723252de72"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "central executive",
+                    "nid": "trm_4a3fd79d0ba25"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "automaticity",
+                    "nid": "trm_4a3fd79d09b28"
+                }
+            ],
+            "color": "#d89013",
+            "name": "dual task RT minus single task RT",
+            "nid": "cnt_55a300d4a2e78"
+        }
+    ],
+    "color": "#63506d",
+    "name": "dual-task paradigm",
+    "nid": "trm_4da634216ebbc"
+}

@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "selective attention",
+                    "nid": "trm_4a3fd79d0b043"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual attention",
+                    "nid": "trm_4a3fd79d0b46f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "d&#39; (difference between correct identifications and false alarms)",
+            "nid": "cnt_4e0101e7e8898"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "selective attention",
+                    "nid": "trm_4a3fd79d0b043"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual attention",
+                    "nid": "trm_4a3fd79d0b46f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "frequency of participant&#39;s saccades minus average saccade frequency",
+            "nid": "cnt_4e0104905eaa1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "selective attention",
+                    "nid": "trm_4a3fd79d0b043"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual attention",
+                    "nid": "trm_4a3fd79d0b46f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual search",
+                    "nid": "trm_4a3fd79d0b4cd"
+                }
+            ],
+            "color": "#d89013",
+            "name": "path of eye movements",
+            "nid": "cnt_4e0104d85693b"
+        }
+    ],
+    "color": "#63506d",
+    "name": "visual pursuit/tracking",
+    "nid": "trm_4c8a85534241d"
+}

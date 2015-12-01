@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "operation span of participant minus average operation span of controls",
+            "nid": "cnt_4df6818a8bcec"
+        }
+    ],
+    "color": "#63506d",
+    "name": "operation span task",
+    "nid": "trm_4c40d10cd776e"
+}

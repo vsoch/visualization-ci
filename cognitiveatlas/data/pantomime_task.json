@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "kinaesthetic representation",
+                    "nid": "trm_4a3fd79d0a72e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "subject&#39;s pantomime ability compared to controls",
+            "nid": "cnt_4df6974d8c674"
+        }
+    ],
+    "color": "#63506d",
+    "name": "pantomime task",
+    "nid": "tsk_4a57abb949c04"
+}

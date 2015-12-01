@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "phonological loop",
+                    "nid": "trm_4a3fd79d0ba48"
+                }
+            ],
+            "color": "#d89013",
+            "name": "suppression - control (articulatory suppression effect)",
+            "nid": "cnt_50f582e4f0a26"
+        }
+    ],
+    "color": "#63506d",
+    "name": "articulatory suppression task",
+    "nid": "trm_50f5822624e53"
+}

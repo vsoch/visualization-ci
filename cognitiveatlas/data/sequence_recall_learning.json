@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "procedural memory",
+                    "nid": "trm_4a3fd79d0addc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor learning",
+                    "nid": "trm_4a3fd79d0a995"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy with learning minus accuracy without learning/practice",
+            "nid": "cnt_4dfa7d117d48f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "procedural memory",
+                    "nid": "trm_4a3fd79d0addc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor learning",
+                    "nid": "trm_4a3fd79d0a995"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4dfa7d1ad09a6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "sequence recall/learning",
+    "nid": "trm_4c8a83cac75f5"
+}

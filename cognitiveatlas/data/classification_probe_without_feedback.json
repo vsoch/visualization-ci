@@ -1,0 +1,135 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "color recognition",
+                    "nid": "trm_557b478ce1c24"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                }
+            ],
+            "color": "#d89013",
+            "name": "classification trials: deterministic",
+            "nid": "cnt_54f8cbcb6fab6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "color recognition",
+                    "nid": "trm_557b478ce1c24"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                }
+            ],
+            "color": "#d89013",
+            "name": "classification trials: probabilistic",
+            "nid": "cnt_4ebcaad4c41d7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "color recognition",
+                    "nid": "trm_557b478ce1c24"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                }
+            ],
+            "color": "#d89013",
+            "name": "junk single-task items",
+            "nid": "cnt_553a67d1e4b8e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "color recognition",
+                    "nid": "trm_557b478ce1c24"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "visual form recognition",
+                    "nid": "trm_557b4b3a6a34d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response execution",
+                    "nid": "trm_557b4a7315f1b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response selection",
+                    "nid": "trm_4a3fd79d0af71"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "categorization",
+                    "nid": "trm_4a3fd79d09c28"
+                }
+            ],
+            "color": "#d89013",
+            "name": "junk dual-task items",
+            "nid": "cnt_553a67dadf57e"
+        }
+    ],
+    "color": "#63506d",
+    "name": "classification probe without feedback",
+    "nid": "trm_4ebc9d2e397f2"
+}

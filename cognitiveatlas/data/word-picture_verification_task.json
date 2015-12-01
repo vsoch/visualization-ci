@@ -1,0 +1,75 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic knowledge",
+                    "nid": "trm_4a3fd79d0b077"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Matching",
+            "nid": "cnt_4b65e60a2f37a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic knowledge",
+                    "nid": "trm_4a3fd79d0b077"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Non-matching",
+            "nid": "cnt_4b65e62c5351c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic knowledge",
+                    "nid": "trm_4a3fd79d0b077"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to non-matching minus response time to matching",
+            "nid": "cnt_4e025694022e0"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "semantic processing",
+                    "nid": "trm_4a3fd79d0b87a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "semantic knowledge",
+                    "nid": "trm_4a3fd79d0b077"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4e02569dd0139"
+        }
+    ],
+    "color": "#63506d",
+    "name": "word-picture verification task",
+    "nid": "trm_4b65e5e2ab3ca"
+}

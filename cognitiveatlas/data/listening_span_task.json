@@ -1,0 +1,24 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "auditory working memory",
+                    "nid": "trm_4a3fd79d09b04"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "acoustic processing",
+                    "nid": "trm_4a3fd79d0971e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "size of subject sentence set minus average size of sentence set of control subjects",
+            "nid": "cnt_4df24f7376278"
+        }
+    ],
+    "color": "#63506d",
+    "name": "listening span task",
+    "nid": "trm_4c40d1d16071e"
+}

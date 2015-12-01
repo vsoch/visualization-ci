@@ -1,0 +1,196 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "perceptual identification",
+            "nid": "cnt_4e02368e6d840"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "lexical decision",
+            "nid": "cnt_4e0236b247798"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to known words minus (or learned words) response time to unknown words",
+            "nid": "cnt_4e023794e822b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to pseudowords minus response time to words",
+            "nid": "cnt_4e0237aa75286"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4e0237ba58871"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "latency identification",
+            "nid": "cnt_4e023b95e5100"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "working memory",
+                    "nid": "trm_4a3fd79d0b5a7"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "preattentive processing",
+                    "nid": "trm_4a3fd79d0ad41"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lexical access",
+                    "nid": "trm_4a3fd79d0b80f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "primed identification",
+            "nid": "cnt_4e023c2ae3c76"
+        }
+    ],
+    "color": "#63506d",
+    "name": "word identification",
+    "nid": "tsk_4a57abb949f4a"
+}

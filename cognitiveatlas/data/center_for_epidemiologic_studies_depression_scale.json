@@ -1,0 +1,383 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sleep",
+            "nid": "cnt_52583b494605a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "appetite",
+            "nid": "cnt_52583b62b9127"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sadness",
+            "nid": "cnt_52583ba6ea3bd"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "thinking / concentration",
+            "nid": "cnt_52583bbbcfd9c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "lack of interest",
+            "nid": "cnt_52583bc89a63b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "guilt",
+            "nid": "cnt_52583bd8020da"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "tired / fatigue",
+            "nid": "cnt_52583beae7af6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "sleep",
+                    "nid": "trm_5159c70d0e98e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "lethargy",
+                    "nid": "trm_523c7ba79c2f1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "appetite",
+                    "nid": "trm_52583e083c9ab"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "guilt",
+                    "nid": "trm_52583d9f2ad98"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "suicidal ideation",
+                    "nid": "trm_52583e8a46ded"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anhedonia",
+                    "nid": "trm_52583dceb345e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "suicidal ideation",
+            "nid": "cnt_52583c058bea0"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Center for Epidemiologic Studies Depression Scale",
+    "nid": "trm_5258346e72223"
+}

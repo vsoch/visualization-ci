@@ -1,0 +1,55 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "main experiment",
+            "nid": "cnt_553fc9eb4a0ab"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "main experiment minus control experiment",
+            "nid": "cnt_553fc9f429430"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "control experiment",
+            "nid": "cnt_553fc9fa8a39b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                }
+            ],
+            "color": "#d89013",
+            "name": "main plus control experiment",
+            "nid": "cnt_5541621795e47"
+        }
+    ],
+    "color": "#63506d",
+    "name": "consensus decision-making task",
+    "nid": "trm_553fc858cacc5"
+}

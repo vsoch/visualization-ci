@@ -1,0 +1,1185 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "emotionally reactive",
+            "nid": "cnt_524b4a6b1b418"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "anxious depressed",
+            "nid": "cnt_524b4a79a1a62"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "somatic complaints",
+            "nid": "cnt_524b4a92ba8fb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "withdrawn",
+            "nid": "cnt_524b4a9eaee3a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sleep problems",
+            "nid": "cnt_524b4aab945a1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attention problems",
+            "nid": "cnt_524b4ac7607c5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "aggressive behavior",
+            "nid": "cnt_524b4ad9275ba"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "internalizing problems",
+            "nid": "cnt_524b4aef50da4"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "externalizing problems",
+            "nid": "cnt_524b4afe10a65"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "affective problems",
+            "nid": "cnt_524b4b114d758"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "anxiety problems",
+            "nid": "cnt_524b4b1c6dd43"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "pervasive developmental score",
+            "nid": "cnt_524b4b30ea93c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attention deficit hyperactivity",
+            "nid": "cnt_524b4b4506e51"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "oppositional defiant problems",
+            "nid": "cnt_524b4db24ad5e"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social problems",
+            "nid": "cnt_524b4b83ab297"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "thought problems",
+            "nid": "cnt_524b4b8f51cef"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "obsessive compulsive problems",
+            "nid": "cnt_524b4baf1f04d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "post traumatic stress problems",
+            "nid": "cnt_524b4bc9ee0a0"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "delusion",
+                    "nid": "trm_4fa3afaeef512"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social phobia",
+                    "nid": "trm_523e053844495"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "obsession",
+                    "nid": "trm_523e0419ec219"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conduct disorder",
+                    "nid": "trm_523e00f356226"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "sadness",
+                    "nid": "trm_4a3fd79d0b014"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "offensive (proactive) aggression",
+                    "nid": "trm_5159c8a5d3d13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "externalizing",
+                    "nid": "trm_523ca883711cc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "internalizing",
+                    "nid": "trm_523ca7e778c50"
+                }
+            ],
+            "color": "#d89013",
+            "name": "conduct problems",
+            "nid": "cnt_524b4d978c37c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Child Behavior Checklist",
+    "nid": "trm_524b4a402c87e"
+}

@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "iconic memory",
+                    "nid": "trm_4a3fd79d0a4f9"
+                }
+            ],
+            "color": "#d89013",
+            "name": "% correct recall",
+            "nid": "cnt_50b6603a36ae2"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Partial Report Procedure",
+    "nid": "trm_50b65ef129e23"
+}

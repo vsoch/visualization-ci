@@ -1,0 +1,51 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual perception",
+                    "nid": "trm_4a3fd79d0b4b5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "olfactory perception",
+                    "nid": "trm_4a3fd79d0aac8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Inter Stimulus Interval",
+            "nid": "cnt_55245849e85e0"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "visual perception",
+                    "nid": "trm_4a3fd79d0b4b5"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "auditory perception",
+                    "nid": "trm_4a3fd79d09ab2"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "olfactory perception",
+                    "nid": "trm_4a3fd79d0aac8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Color",
+            "nid": "cnt_552459a006d45"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Manipulation of ISI",
+    "nid": "trm_551efeacb9deb"
+}

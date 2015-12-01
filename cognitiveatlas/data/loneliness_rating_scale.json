@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "loneliness",
+                    "nid": "trm_529d0d62290de"
+                }
+            ],
+            "color": "#d89013",
+            "name": "total score",
+            "nid": "cnt_529d0a711d43d"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Loneliness Rating Scale",
+    "nid": "trm_529d087705bfa"
+}

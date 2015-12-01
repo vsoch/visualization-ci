@@ -1,0 +1,196 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "communication",
+            "nid": "cnt_5298ed32ea678"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "repetitive behavior",
+            "nid": "cnt_5298ed452d73c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "regulatory behavior",
+            "nid": "cnt_5298ed53c8281"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social",
+            "nid": "cnt_5298ed5f7af62"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "sensory",
+            "nid": "cnt_5298ed6939932"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "tone",
+            "nid": "cnt_5298ed71daa03"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "communication",
+                    "nid": "trm_4a3fd79d09d9e"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotion regulation",
+                    "nid": "trm_51a690a7492eb"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "restricted behavior",
+                    "nid": "trm_52068e5bd9aa1"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social cognition",
+                    "nid": "trm_4a3fd79d0b13d"
+                }
+            ],
+            "color": "#d89013",
+            "name": "stressful event",
+            "nid": "cnt_5298ed8042bfc"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Early Development Interview (EDI)",
+    "nid": "trm_5298ed1336e43"
+}

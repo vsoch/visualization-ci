@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "divided attention",
+                    "nid": "trm_4a3fd79d0a116"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time with competing stimuli minus response time with a single stimuli or congruent stimuli",
+            "nid": "cnt_4dfa46d8c1622"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "divided attention",
+                    "nid": "trm_4a3fd79d0a116"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy with a single stimuli or congruent stimuli minus accuracy with competing stimuli ",
+            "nid": "cnt_4dfa4752a1120"
+        }
+    ],
+    "color": "#63506d",
+    "name": "selective attention task",
+    "nid": "tsk_4a57abb949d76"
+}

@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor planning",
+                    "nid": "trm_4a3fd79d0a9a1"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time",
+            "nid": "cnt_4ded518b33a0b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "motor planning",
+                    "nid": "trm_4a3fd79d0a9a1"
+                }
+            ],
+            "color": "#d89013",
+            "name": "kinematics",
+            "nid": "cnt_4ded51930eba6"
+        }
+    ],
+    "color": "#63506d",
+    "name": "grasping task",
+    "nid": "trm_4c898ff0bea97"
+}

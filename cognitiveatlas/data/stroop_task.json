@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conflict adaptation effect",
+                    "nid": "trm_5358ede949107"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conflict detection",
+                    "nid": "trm_4a3fd79d09e13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent minus congruent",
+            "nid": "cnt_4dfbb1f51259f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conflict adaptation effect",
+                    "nid": "trm_5358ede949107"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conflict detection",
+                    "nid": "trm_4a3fd79d09e13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent minus neutral",
+            "nid": "cnt_4e41708078f47"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "conflict adaptation effect",
+                    "nid": "trm_5358ede949107"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "conflict detection",
+                    "nid": "trm_4a3fd79d09e13"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "response inhibition",
+                    "nid": "trm_4a3fd79d0af66"
+                }
+            ],
+            "color": "#d89013",
+            "name": "incongruent minus congruent depending on the congruency condicition of the previous trial",
+            "nid": "cnt_5358ef9570ace"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Stroop task",
+    "nid": "tsk_4a57abb949e27"
+}

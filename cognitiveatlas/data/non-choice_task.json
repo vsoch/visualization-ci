@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time to risky choices minus response time to non-risky choices",
+            "nid": "cnt_4e03bc67764f5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "number of participant&#39;s risky choices minus average number of risky choices",
+            "nid": "cnt_4e03bc8177610"
+        }
+    ],
+    "color": "#63506d",
+    "name": "non-choice task",
+    "nid": "trm_4d55997cd3edb"
+}

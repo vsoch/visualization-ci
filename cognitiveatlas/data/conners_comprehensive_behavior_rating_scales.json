@@ -1,0 +1,199 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intrinsic motivation",
+                    "nid": "trm_4a3fd79d0a6e8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "joint attention",
+                    "nid": "trm_4b75ed06c917d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "attention scale",
+            "nid": "cnt_524b5702780ad"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intrinsic motivation",
+                    "nid": "trm_4a3fd79d0a6e8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "joint attention",
+                    "nid": "trm_4b75ed06c917d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "persistence",
+            "nid": "cnt_524b570288099"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intrinsic motivation",
+                    "nid": "trm_4a3fd79d0a6e8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "joint attention",
+                    "nid": "trm_4b75ed06c917d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "interest involvement",
+            "nid": "cnt_524b570288b15"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intrinsic motivation",
+                    "nid": "trm_4a3fd79d0a6e8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "joint attention",
+                    "nid": "trm_4b75ed06c917d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "initiation of activities",
+            "nid": "cnt_524b575f2b696"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intrinsic motivation",
+                    "nid": "trm_4a3fd79d0a6e8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "joint attention",
+                    "nid": "trm_4b75ed06c917d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "joint attention",
+            "nid": "cnt_524b5772e43a8"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intrinsic motivation",
+                    "nid": "trm_4a3fd79d0a6e8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "joint attention",
+                    "nid": "trm_4b75ed06c917d"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attentional focusing",
+                    "nid": "trm_4a3fd79d0b5ef"
+                }
+            ],
+            "color": "#d89013",
+            "name": "affect",
+            "nid": "cnt_524b578b851f8"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Conners Comprehensive Behavior Rating Scales",
+    "nid": "trm_524b563fb87c8"
+}

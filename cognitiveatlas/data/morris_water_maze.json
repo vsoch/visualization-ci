@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "spatial memory",
+                    "nid": "trm_4a3fd79d0b1d5"
+                }
+            ],
+            "color": "#d89013",
+            "name": "presence versus absence of spatial cues",
+            "nid": "cnt_500ddba625847"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Morris water maze",
+    "nid": "trm_4da890a9bd7a3"
+}

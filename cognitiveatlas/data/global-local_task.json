@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "global precedence",
+                    "nid": "trm_5021873f37abc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                }
+            ],
+            "color": "#d89013",
+            "name": "interfering versus non-interfering",
+            "nid": "cnt_502174397e768"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "global precedence",
+                    "nid": "trm_5021873f37abc"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "attention",
+                    "nid": "trm_4a3fd79d09902"
+                }
+            ],
+            "color": "#d89013",
+            "name": "identification of global feature versus identification of local feature",
+            "nid": "cnt_5021877eb2bcf"
+        }
+    ],
+    "color": "#63506d",
+    "name": "global-local task",
+    "nid": "trm_4f241d7adf14e"
+}

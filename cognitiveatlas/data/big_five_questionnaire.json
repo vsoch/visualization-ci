@@ -1,0 +1,167 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "openness",
+                    "nid": "trm_523f5f918cb2c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "agreeableness",
+                    "nid": "trm_523f5ee64102c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intelligence",
+                    "nid": "trm_4a3fd79d0a666"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "energy/extraversion",
+            "nid": "cnt_523f5c34d27c1"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "openness",
+                    "nid": "trm_523f5f918cb2c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "agreeableness",
+                    "nid": "trm_523f5ee64102c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intelligence",
+                    "nid": "trm_4a3fd79d0a666"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "conscientiousness",
+            "nid": "cnt_523f5c4dc38bf"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "openness",
+                    "nid": "trm_523f5f918cb2c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "agreeableness",
+                    "nid": "trm_523f5ee64102c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intelligence",
+                    "nid": "trm_4a3fd79d0a666"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "emotional instability",
+            "nid": "cnt_523f5c5e490b9"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "openness",
+                    "nid": "trm_523f5f918cb2c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "agreeableness",
+                    "nid": "trm_523f5ee64102c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intelligence",
+                    "nid": "trm_4a3fd79d0a666"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "agreeableness",
+            "nid": "cnt_523f5c6c34adc"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "openness",
+                    "nid": "trm_523f5f918cb2c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "agreeableness",
+                    "nid": "trm_523f5ee64102c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "intelligence",
+                    "nid": "trm_4a3fd79d0a666"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "social motivation",
+                    "nid": "trm_52090251db8c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "intellect/openness",
+            "nid": "cnt_523f5c876e89c"
+        }
+    ],
+    "color": "#63506d",
+    "name": "big five questionnaire",
+    "nid": "trm_523f5c17d7edb"
+}

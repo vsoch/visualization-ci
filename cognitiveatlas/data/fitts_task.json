@@ -1,0 +1,67 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "target size",
+            "nid": "cnt_5007421b7d846"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "movement amplitude",
+            "nid": "cnt_5007422433506"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "peak velocity",
+            "nid": "cnt_500742e46e628"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "target shape",
+            "nid": "cnt_5007432c64f97"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "target visibility",
+            "nid": "cnt_50074380529ff"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Fitts task",
+    "nid": "trm_4f24226fa2903"
+}

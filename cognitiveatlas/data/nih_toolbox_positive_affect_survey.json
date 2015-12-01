@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "mood",
+                    "nid": "trm_4a3fd79d0a95a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "total score",
+            "nid": "cnt_50f3bc8c135bc"
+        }
+    ],
+    "color": "#63506d",
+    "name": "NIH Toolbox Positive Affect Survey",
+    "nid": "trm_50f3bc06cae36"
+}

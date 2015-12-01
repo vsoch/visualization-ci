@@ -1,0 +1,43 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4dfa9088a6739"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reaction time of participant minus average reaction time of controls",
+            "nid": "cnt_4dfa90af8345d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "motor control",
+                    "nid": "trm_4a3fd79d0a972"
+                }
+            ],
+            "color": "#d89013",
+            "name": "reaction time after some manipulation minus reaction time at baseline",
+            "nid": "cnt_4dfa90c46cf46"
+        }
+    ],
+    "color": "#63506d",
+    "name": "simple reaction time task",
+    "nid": "tsk_4a57abb949dc8"
+}

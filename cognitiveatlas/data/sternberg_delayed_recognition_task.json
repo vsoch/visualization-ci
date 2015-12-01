@@ -1,0 +1,73 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "working memory retrieval",
+                    "nid": "trm_4a3fd79d0ba6c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "maintenance",
+                    "nid": "trm_4a3fd79d0ba30"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "serial search",
+                    "nid": "trm_4a3fd79d0b0c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of participant minus average accuracy of controls",
+            "nid": "cnt_4dfbaef575808"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "working memory retrieval",
+                    "nid": "trm_4a3fd79d0ba6c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "maintenance",
+                    "nid": "trm_4a3fd79d0ba30"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "serial search",
+                    "nid": "trm_4a3fd79d0b0c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of immediate recognition test minus accuracy of delayed test",
+            "nid": "cnt_4dfbaf2722de5"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "working memory retrieval",
+                    "nid": "trm_4a3fd79d0ba6c"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "maintenance",
+                    "nid": "trm_4a3fd79d0ba30"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "serial search",
+                    "nid": "trm_4a3fd79d0b0c8"
+                }
+            ],
+            "color": "#d89013",
+            "name": "average response time",
+            "nid": "cnt_4dfbaf4e94f96"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Sternberg delayed recognition task",
+    "nid": "tsk_4a57abb949e0c"
+}

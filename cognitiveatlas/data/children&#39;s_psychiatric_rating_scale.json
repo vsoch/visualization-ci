@@ -1,0 +1,524 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "oppositional",
+            "nid": "cnt_525c572fd0e6b"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "cognitive problems",
+            "nid": "cnt_525c57456e8d6"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hyperactivity",
+            "nid": "cnt_525c57664d7a7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "anxious",
+            "nid": "cnt_525c5771523cb"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "perfectionism",
+            "nid": "cnt_525c577f94423"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "psychosomatic",
+            "nid": "cnt_525c578b8e221"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "social",
+            "nid": "cnt_525c57980c6af"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "restlessness",
+            "nid": "cnt_525c57b11694a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "emotional",
+            "nid": "cnt_525c57bbddf7c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "impulsivity",
+            "nid": "cnt_525c57d12435a"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inattention",
+                    "nid": "trm_4a3fd79d0a54b"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "emotional expression",
+                    "nid": "trm_4a3fd79d0a196"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "somatosensation",
+                    "nid": "trm_4a3fd79d0b160"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perfectionism",
+                    "nid": "trm_525c58f9aabae"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "impulsivity",
+                    "nid": "trm_50070dce14554"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "hyperactivity",
+                    "nid": "trm_523c7c13bc55f"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "defiance",
+                    "nid": "trm_523e034f9e69a"
+                }
+            ],
+            "color": "#d89013",
+            "name": "inattention",
+            "nid": "cnt_525c5bbee5aa5"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Children&#39;s Psychiatric Rating Scale",
+    "nid": "trm_525c56680c13c"
+}

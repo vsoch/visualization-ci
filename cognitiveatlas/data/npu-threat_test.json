@@ -1,0 +1,41 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                }
+            ],
+            "color": "#d89013",
+            "name": "P cue\u2013no cue P",
+            "nid": "cnt_5024229cb9cef"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "anxiety",
+                    "nid": "trm_5022ef7599294"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "fear",
+                    "nid": "trm_4a3fd79d0b689"
+                }
+            ],
+            "color": "#d89013",
+            "name": "no cue U\u2013no cue N",
+            "nid": "cnt_502422c805b89"
+        }
+    ],
+    "color": "#63506d",
+    "name": "NPU-threat test",
+    "nid": "trm_502420a682976"
+}

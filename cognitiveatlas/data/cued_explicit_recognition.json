@@ -1,0 +1,58 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "word recognition",
+                    "nid": "trm_4a3fd79d0b58f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "hit rate (number of correct recognitions)",
+            "nid": "cnt_4de7d07b4366d"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "word recognition",
+                    "nid": "trm_4a3fd79d0b58f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "false alarm rate (number of incorrect recognitions)",
+            "nid": "cnt_4de7d0972591c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "forgetting",
+                    "nid": "trm_4a3fd79d0b908"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "word recognition",
+                    "nid": "trm_4a3fd79d0b58f"
+                }
+            ],
+            "color": "#d89013",
+            "name": "miss rate (number of items subject failed to recognize)",
+            "nid": "cnt_4de7d0b31ce2e"
+        }
+    ],
+    "color": "#63506d",
+    "name": "cued explicit recognition",
+    "nid": "trm_4c898b29660b0"
+}

@@ -1,0 +1,58 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "response time for risky decks minus response time for advantageous decks",
+            "nid": "cnt_4df10c8ee9834"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy of subject minus average accuracy of controls",
+            "nid": "cnt_4df10d2fb170f"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "decision making",
+                    "nid": "trm_4a3fd79d0a038"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "risk seeking",
+                    "nid": "trm_4a3fd79d0b64e"
+                }
+            ],
+            "color": "#d89013",
+            "name": "\"safe\" deck versus \"risky\" deck choices",
+            "nid": "cnt_5021a042336c1"
+        }
+    ],
+    "color": "#63506d",
+    "name": "Iowa Gambling Task",
+    "nid": "tsk_4a57abb949ae5"
+}

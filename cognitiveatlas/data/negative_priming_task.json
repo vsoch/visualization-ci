@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "inhibition",
+                    "nid": "trm_4a3fd79d0a613"
+                }
+            ],
+            "color": "#d89013",
+            "name": "experimental minus control",
+            "nid": "cnt_500ed6d06dd2e"
+        }
+    ],
+    "color": "#63506d",
+    "name": "negative priming task",
+    "nid": "trm_4f244d64e45bc"
+}

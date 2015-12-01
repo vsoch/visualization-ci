@@ -1,0 +1,95 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perceptual learning",
+                    "nid": "trm_4a3fd79d0abb6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reading",
+                    "nid": "trm_4a3fd79d0aeb6"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Early Blind",
+            "nid": "cnt_4e038e680bd57"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perceptual learning",
+                    "nid": "trm_4a3fd79d0abb6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reading",
+                    "nid": "trm_4a3fd79d0aeb6"
+                }
+            ],
+            "color": "#d89013",
+            "name": "Late Blind",
+            "nid": "cnt_4e038e90bd3e7"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perceptual learning",
+                    "nid": "trm_4a3fd79d0abb6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reading",
+                    "nid": "trm_4a3fd79d0aeb6"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation of early blind minus areas of activation of late blind",
+            "nid": "cnt_4e03951a4914c"
+        },
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "language processing",
+                    "nid": "trm_4a3fd79d0b802"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "perceptual learning",
+                    "nid": "trm_4a3fd79d0abb6"
+                },
+                {
+                    "color": "#3c7263",
+                    "name": "reading",
+                    "nid": "trm_4a3fd79d0aeb6"
+                }
+            ],
+            "color": "#d89013",
+            "name": "areas of activation while reading words or sentences minus reading control dots",
+            "nid": "cnt_4e039557ad404"
+        }
+    ],
+    "color": "#63506d",
+    "name": "braille reading task",
+    "nid": "trm_4c898a20eb254"
+}

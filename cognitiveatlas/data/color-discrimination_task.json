@@ -1,0 +1,19 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "color": "#3c7263",
+                    "name": "color perception",
+                    "nid": "trm_4a3fd79d09d93"
+                }
+            ],
+            "color": "#d89013",
+            "name": "accuracy",
+            "nid": "cnt_4de7b92a0ce43"
+        }
+    ],
+    "color": "#63506d",
+    "name": "color-discrimination task",
+    "nid": "tsk_4a57abb9499b8"
+}
