@@ -5,7 +5,6 @@ visualization file structure for continuous integration.
 '''
 
 import visci.utils
-from jinja2 import Template
 import string
 import os
 
@@ -23,8 +22,9 @@ def sub_template(template_str,subs):
     :param template_str: text str of template, already loaded. Tags should be specified with {{ tag }}.
     :param subs: dict, substitutions, with "key" as variable name, and value as the substitution.
     '''
-    template = Template(template_str)
-    return template.render(subs)
+    for sub,text in subs.iteritems():
+        template = template.replace("[[%s]]"%sub,text)
+    return template
 
 
 def save_render(template_str,output_file):

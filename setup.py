@@ -17,7 +17,7 @@ setup(
     # Details
     url="http://www.github.com/vsoch/visualization-ci",
 
-    install_requires = ["cognitiveatlas","Jinja2"],
+    install_requires = ["cognitiveatlas"],
 
     license="LICENSE.txt",
     description="visualization standard file structure for continuous integration",
