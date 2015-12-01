@@ -1,14 +1,23 @@
+<html>
+<head>
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css" rel="stylesheet"/>
 <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>
-<select id="visci_select">
-[[VISCI_SELECT]]
-</select>
-
-<iframe id="visiframe" src="[[VISUALIZATION_ONE]]" frameborder="0" noresize="noresize" data-view="fullScreenPreview" style="height: 389px;"></iframe>
-
+</head>
+<body>
+<div class="row" style="position:absolute;top:0px;height:50px">
+    <select id="visci_select">
+    [[VISCI_SELECT]]
+    </select>
+</div>
+<div class="row">
+    <iframe id="visiframe" src="[[VISUALIZATION_ONE]]" frameborder="0" noresize="noresize" data-view="fullScreenPreview" style="width: 100%;"></iframe>
+</div>
 <script>
 $(document).ready(function() {
   var visuals = $("#visci_select").select2();
 });
 </script>
+</body>
+</html>

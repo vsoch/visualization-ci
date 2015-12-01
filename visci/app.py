@@ -63,7 +63,9 @@ def generate_vis(template_file,data_files,output_folder):
     template = read_template(template_file)  
     for data_file in data_files:
         try:
-            relative_path = data_file.replace(output_folder,"")   
+            relative_path = data_file.replace(output_folder,"") 
+            if relative_path[0] == "/":
+                relative_path = relative_path[1:]  
             filename = os.path.basename(data_file).split(".")[0]
             sub = sub_template(template,{"DATA":relative_path})
             vis_file = "%s/%s.html" %(output_folder,filename)
@@ -79,7 +81,10 @@ def generate_vis_index(vis_files,base_dir):
     # For each vis file, generate link to it
     visci_select = ""
     for vis_file in vis_files:
-        visci_select = '\n%s<option value="%s">%s</option>' %(visci_select,vis_file,vis_file)
+        relative_path = vis_file.replace(base_dir,"")
+        if relative_path[0] == "/":
+            relative_path = relative_path[1:]  
+        visci_select = '\n%s<option value="%s">%s</option>' %(visci_select,relative_path,relative_path)
     substitutions = {"VISCI_SELECT":visci_select,
                      "VISUALIZATION_ONE":vis_files[0]}
     template = sub_template(template,substitutions)
