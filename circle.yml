@@ -4,7 +4,7 @@ general:
 
 test:
   override:
-    - which python
+    - source $HOME/.bashrc
     - python -c "from visci.app import run; run()"
 
 dependencies:
