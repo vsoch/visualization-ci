@@ -65,7 +65,7 @@ The visci.json specifies the variables that we've already talked about. The reas
 
 
 ### Reproducibility
-The underlying purpose of a standard like this is reproducibility. The larger idea is that we must have tools that are flexible enough to be easily extended to different data or method.  This means that I can generate an analysis pipeline, and you can run your data through it simply by cloning my repo, changing the input data, and doing a PR. You could also take my data, and edit the method (in this case, it's a visualization template) to see how the result varies. This particular implementation is for visualziation, and deployment with continuous integration, but you should see that a general framework like this would work equivalently in some other computational environment. You might also intuit that 
+The underlying purpose of a standard like this is reproducibility. The larger idea is that we must have tools that are flexible enough to be easily extended to different data or method.  This means that I can generate an analysis pipeline, and you can run your data through it simply by cloning my repo, changing the input data, and doing a PR. You could also take my data, and edit the method (in this case, it's a visualization template) to see how the result varies. This particular implementation is for visualization, and deployment with continuous integration, but you should see that a general framework like this would work equivalently in some other computational environment. You might also intuit that we could develop databases of visualization templates for widespread use, and simply tell the user how to format his or her data to plug in.
 
 
 ### Notes
