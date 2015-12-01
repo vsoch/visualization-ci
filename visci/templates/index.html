@@ -1,18 +1,15 @@
-<!-- index.html
-Visualization CI template for an index to render a visualization
--->
-
+<!-- index.html Visualization CI template for an index to render a visualization-->
 <!DOCTYPE html>
 <head>
-    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css'>
-   
-    <!--Select 2-->
-    <link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css" rel="stylesheet" />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>-->
-    
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css'>
+
+<!--Select 2-->
+<link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/css/select2.min.css" rel="stylesheet" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.0/js/select2.min.js"></script>
+
 <style>
 .visci_header{font-size:12px;height:54px;background-color:#262626;z-index:100;line-height:54px;margin-bottom:1px}
 
@@ -22,9 +19,7 @@ Visualization CI template for an index to render a visualization
 
 /* Visualization */
 .visualization{width:100%;background-color:#fff}.visualization.-ios-fix{width:10px;min-width:100%;-webkit-overflow-scrolling:touch;height:100% !important}
-
 </style>
-    
 </head>
 <meta charset="utf-8">
 
@@ -43,25 +38,21 @@ Visualization CI template for an index to render a visualization
         <div class="visci_action--close">
         <!-- This should be just the visualization page link-->
         <a href="{{visualization_1}}">
-            <i class="e-icon -icon-cancel"></i><span>Remove Frame</span>
+            <i class="fa-close"></i><span>Remove Frame</span>
         </a>
         </div>
     </div>
 </div>
-
 <iframe id="visiframe" class="full-screen-preview_frame" src="{{visualization_1}}" name="preview-frame" frameborder="0" noresize="noresize" data-view="fullScreenPreview" style="height: 389px;">
 </iframe>
-
 <script>
 $(document).ready(function() {
     var visuals = $("#visci_select_two").select2();
-
     $("#visci_select_two").on("change", function(e) {
     var theID = $(visuals).select2('data')[0].id;
     var iframe = document.getElementById('visiframe');
-    iframe.src = theID;
+    iframe.src = theID
     iframe.contentWindow.location.reload();
-
 });
 
 // Show or hide modal
@@ -74,24 +65,20 @@ function hideModal() {
     document.getElementById('fade').style.display = 'none';
 }
 </script>
-
 <!--About modal-->
 <div id='about_modal' class='modal' data-backdrop='static' style='margin-top: 75px;'>
           <div class='modal-dialog'>
               <div class='modal-content'>
                   <div class='modal-header'>
-      <button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="hideModal()">&times;</button>
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true" onclick="hideModal()">X</button>
       <h4 class="modal-title">About</h4>
-  </div>
-  <div class='modal-body'>
-  <h4>Visualization for Continuous Integration (VISCI)</h4>
-  <p>A lot of research happens on Github, but visualization to go along with these pipelines is not a "solved problem." Data changes. We may want to visualize this data, but we don't have a server. We may also want to test different ways of visualizing the same data, but that's annoying to do locally and over many data inputs. Thus, this is what I am calling Visualization-CI - a standard of running visualizations to go along with continuous integration.</p> 
-   <h4>How does it work?</h4>
+</div>
+<div class='modal-body'>
+<h4>Visualization for Continuous Integration (VISCI)</h4>
+<p>A lot of research happens on Github, but visualization to go along with these pipelines is not a "solved problem." Data changes. We may want to visualize this data, but we don't have a server. We may also want to test different ways of visualizing the same data, but that's annoying to do locally and over many data inputs. Thus, this is what I am calling Visualization-CI - a standard of running visualizations to go along with continuous integration.</p> 
+<h4>How does it work?</h4>
 <p>Setting up `visci` integration into your repo should be as simple as dropping configuration files into one or more folders of your repo, and adding a line to your circle.yml (or other continuous integration script). The visualizations should be produced as artifacts each time a PR or commit is triggered. `visci` can produce the same visualization for many data inputs, or different visualizations for the same data input, for one or more folders anywhere in your repo.</p>
 
 <p>Visci is also agnostic to the formats of your inputs, and your visualizations. The only requirement is that your template is a web-based thing (.html, ipython notebook will be supported soon), and that a single input data file is specified in your template (to be read in as a file) using the {{data}} tag.</p>
-</div>
-              </div>
-          </div>
-      </div><!-- close modal -->
+</div></div></div></div><!-- close modal -->
 </html>
