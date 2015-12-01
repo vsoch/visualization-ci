@@ -8,10 +8,10 @@ import visci.utils
 from jinja2 import Template
 
 def read_template(template_file):
-    filey = open(template_file,"r")
+    filey = open(template_file,"rb")
     template = "\n".join(filey.readlines())
     filey.close()
-    return template
+    return template.decode("utf-8")
 
 
 def sub_template(template_str,subs):

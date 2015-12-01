@@ -10,6 +10,7 @@ Setting up `visci` integration into your repo should be as simple as dropping co
 
 Visci is also agnostic to the formats of your inputs, and your visualizations. The only requirement is that your template is a web-based thing (.html, ipython notebook will be supported soon), and that a single input data file is specified in your template (to be read in as a file) using the {{data}} tag.
 
+
 #### File Structure
 
 The structure of a visualization-ci repo could be as follows:
@@ -36,7 +37,6 @@ The structure of a visualization-ci repo could be as follows:
 - In the case that you don't even have a visualization pipeline, you can generate the files with a script called `run.py` that will be run if it exists. The requirement for this script is that your main analysis falls under a function called main().
 
 3. Within each visualization folder, you are free to include subfolders and dependencies (eg, other javascript or flat files) to be linked from your output. You can assume that your visualizations defined in `template.html` will be relative to this file. 
-
 
 
 ### Before Continuous Integration is Run
@@ -67,9 +67,17 @@ The repo might look like this
 
 You will notice only two changes - the presence of `index.html` files in the base directory, and each subdirectory. The upper level index.html acts as a portal into each of the lower level visualizations, and the lower level serves to navigate over the different data objects.
 
-### config.json
+### visci.json
 
 The visci.json specifies the variables that we've already talked about. The reason for this file is that as this integration is developed, we can do things like give the user more options for customization, or generate multiple visualizations for one folder. 
+
+
+### Reproducibility
+The underlying purpose of a standard like this is reproducibility. The larger idea is that we must have tools that are flexible enough to be easily extended to different data or method.  This means that I can generate an analysis pipeline, and you can run your data through it simply by cloning my repo, changing the input data, and doing a PR. You could also take my data, and edit the method (in this case, it's a visualization template) to see how the result varies. This particular implementation is for visualziation, and deployment with continuous integration, but you should see that a general framework like this would work equivalently in some other computational environment. You might also intuit that 
+
+- A researcher 
+
+If we can add steps along 
 
 
 ### Notes

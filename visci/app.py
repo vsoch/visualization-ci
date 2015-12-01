@@ -6,7 +6,8 @@ Visualization file structure for continuous integration.
 '''
 
 from visci.utils import find_visci, validate, load_visci
-from visci.template import read_template, get_template, save_render
+from visci.template import read_template, get_template, save_render, sub_template
+from glob import glob
 import os
 import imp
 

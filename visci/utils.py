@@ -5,6 +5,7 @@ visualization file structure for continuous integration.
 '''
     
 from glob import glob
+import json
 import os
 import re
 
