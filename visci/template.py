@@ -26,7 +26,7 @@ def sub_template(template_str,subs):
 
 def save_render(template_str,output_file):
     filey = open(output_file,"w")
-    filey.writelines(template_str)
+    filey.write(template_str)
     filey.close()
 
 
