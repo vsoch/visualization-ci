@@ -44,7 +44,9 @@ def main():
                         for concept in contrast_concepts.json:
                             children.append(make_node(concept["id"],concept["name"],"#3c7263"))
                         contrast_node["children"] = children
-                        task_concepts.append(contrast_node)
+                        # Only append contrast if it has children
+                        if len(children) > 0:
+                            task_concepts.append(contrast_node)
                     except:
                         pass
                 task_node["children"] = task_concepts
