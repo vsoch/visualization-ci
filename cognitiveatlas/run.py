@@ -37,8 +37,8 @@ def main():
                 task_contrasts = single_task["contrasts"]
                 task_concepts = []
                 for contrast in task_contrasts:
-                    contrast_node = make_node(contrast["id"],contrast["contrast_text"],"#d89013")
                     try:
+                        contrast_node = make_node(contrast["id"],contrast["contrast_text"],"#d89013")
                         contrast_concepts = get_concept(contrast_id=contrast["id"])
                         children = []
                         for concept in contrast_concepts.json:
