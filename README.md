@@ -71,4 +71,4 @@ The underlying purpose of a standard like this is reproducibility. The larger id
 ### Notes
  - can we have email notifications when it finishes with links to result?
  - pushing content back to gh-pages?
- - content aware visualizations (ipython notebook, etc).
+ - content aware visualizations (ipython notebook, etc.)
