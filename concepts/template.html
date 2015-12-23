@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<body>
+<h1>Unique Contrasts Across all Tasks</h1>
+<div id = "concept_links">
+ <ul>
+ </ul>
+</div>
+<!-- Include jquery -->
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script>
+
+concepts = "[[DATA]]"
+for (i=0;i<concepts.length,i++){
+    link = "http://www.cognitiveatlas.org/concept/id/" + concepts[i]["id"]
+    $("#concept_links ul").append('<li><a href="'+ link + '">'+ concepts[i]["name"] +'</a></li>');
+}
+</script>

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Cognitive Atlas Concept Visualization",
+        "template": "template.html",
+        "tag": "cognitiveatlas",
+        "author": "Vanessa Sochat", 
+        "publish":"True"    
+   }
+]
