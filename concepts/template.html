@@ -15,7 +15,7 @@ $.getJSON('[[DATA]]', function (response) {
     $.each(response, function(idx, concept){
 
         link = "http://www.cognitiveatlas.org/concept/id/" + concept.nid
-        $("#concept_links ul").append('<li><a href="'+ link + '">'+ concept.name +'</a></li>');
+        $("#concept_links ul").append('<li><a href="'+ link + '" target="_blank">'+ concept.name +'</a></li>');
 
     })
 });
