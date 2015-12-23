@@ -43,5 +43,5 @@ def main():
                         pass
     # Save to file
     filey = open('%s/all_concepts.json' %(output_folder),'w')
-    filey.write(json.dumps(unique_concepts, sort_keys=True,indent=4, separators=(',', ': ')))
+    filey.write(json.dumps(concept_links, sort_keys=True,indent=4, separators=(',', ': ')))
     filey.close()
