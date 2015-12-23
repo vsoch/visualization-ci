@@ -11,9 +11,14 @@
 <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script>
 
-concepts = "[[DATA]]"
-for (i=0;i<concepts.length,i++){
-    link = "http://www.cognitiveatlas.org/concept/id/" + concepts[i]["id"]
-    $("#concept_links ul").append('<li><a href="'+ link + '">'+ concepts[i]["name"] +'</a></li>');
-}
+$.getJSON("[[DATA]]", function(json) {
+
+    var concepts = json.responseJSON;
+
+    for (i=0;i<concepts.length;i++){
+        link = "http://www.cognitiveatlas.org/concept/id/" + concepts[i]["id"]
+        $("#concept_links ul").append('<li><a href="'+ link + '">'+ concepts[i]["name"] +'</a></li>');
+    }
+
+});
 </script>

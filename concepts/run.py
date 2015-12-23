@@ -37,7 +37,7 @@ def main():
                         contrast_concepts = get_concept(contrast_id=contrast["id"])
                         for concept in contrast_concepts.json:
                             if concept["name"] not in unique_concepts:
-                                concept_links.append(make_node(concept["id"],concept["name"],"#3c7263"))
+                                concept_links.append(make_link(concept["id"],concept["name"])
                                 unique_concepts.append(concept["name"])
                     except:
                         pass
