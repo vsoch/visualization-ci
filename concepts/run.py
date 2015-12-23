@@ -29,7 +29,6 @@ def main():
             print "Parsing task %s..." %task["name"]
             task_name = task["name"].replace(" ","_").replace("/","_").lower()
             if task["id"] in task_uids:
-                task_node = make_node(task["id"],task["name"],"#63506d")
                 single_task = get_task(id=task["id"]).json[0]
                 # We only want to see contrasts with associated concepts
                 task_contrasts = single_task["contrasts"]
