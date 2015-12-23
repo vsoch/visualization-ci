@@ -11,14 +11,13 @@
 <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script>
 
-$.getJSON("[[DATA]]", function(json) {
+$.getJSON('[[DATA]]', function (response) {
+    $.each(response, function(idx, concept){
 
-    var concepts = $.parseJSON(json)
+        link = "http://www.cognitiveatlas.org/concept/id/" + concept.nid
+        $("#concept_links ul").append('<li><a href="'+ link + '">'+ concept.name +'</a></li>');
 
-    for (i=0;i<concepts.length;i++){
-        link = "http://www.cognitiveatlas.org/concept/id/" + concepts[i]["nid"]
-        $("#concept_links ul").append('<li><a href="'+ link + '">'+ concepts[i]["name"] +'</a></li>');
-    }
-
+    })
 });
+
 </script>
